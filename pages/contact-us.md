@@ -2,24 +2,31 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: SILAS
+agency_name: Agency Name
 locations:
-  - title: Library Supply Centre
+  - title: Main Office
     address:
-		- National Library Board
-		- 3 Changi South St 2
-		- #03-00 Xiling Districentre Building B
-		- Singapore 486548
-    maps_link: https://goo.gl/maps/289LZgmXgTfDxjX6A
+        - 31 Sesame Street
+        - Big Bird Building
+        - Singapore 123456
+    operating_hours:
+      - days: Mon - Fri
+        time: 8.30am - 6.00pm
+        description: Closed on Public Holidays
+      - days: Sat
+        time: 8.30am - 12.00pm
+  - title: Branch Office
+    address:
+        - 109 North Bridge Road
+        - Singapore 179097
+    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
 contacts:
-  - title: Low Eik Sin
+  - title: General Enquiries & Feedback
     content:
-    - phone: +65 6718 3766
-    - email: Low_Eik_Sin@nlb.gov.sg
-    - other: Bibliographic Manager (Covering)
-  - title: Kim Wong
+    - phone: +65 6123 4567
+    - email: enquiries@abc.gov.sg
+    - other: Any text here <i>including HTML</i>
+  - title: Careers
     content:
-	- phone: +65 6718 3087
-    - email: Wong_Kim_Nguk@nlb.gov.sg
-	- other: Librarian (Membership account matters)
+    - email: careers@abc.gov.sg
 ---
