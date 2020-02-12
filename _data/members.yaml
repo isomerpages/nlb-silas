@@ -21,7 +21,8 @@ members:
     address: "1 Depot Road, Defence Tech Tower A, #03-01J, Singapore 109676"
     tel: 6373 4989
   - name: Institute of Technical Education
-    ic: Ms Jenny Tay (Jenny_A_G_Tay@ite.edu.sg)
+    ic: Ms Jenny Tay
+    email: Jenny_A_G_Tay@ite.edu.sg
     address: 2 Ang Mo Kio Drive, Singapore 567720
     tel: 6590 2357
   - name: Intercultural Theatre Institute
