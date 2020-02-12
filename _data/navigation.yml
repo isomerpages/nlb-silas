@@ -7,11 +7,11 @@
 logo: /images/isomer-logo.svg
 
 links:
+  - title: Who We Are
+    collection: who-we-are
+  - title: Document Library
+    collection: document-library
+  - title: Blog
+    resource_room: true
   - title: Contact Us
     url: /contact-us/
-  - title: About
-    collection: about
-  - title: Events
-    collection: events
-  - title: Reading Room
-    resource_room: true
