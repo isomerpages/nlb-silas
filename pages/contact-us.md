@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: SILAS
 locations:
   - title: Main Office
     address:
@@ -21,12 +21,13 @@ locations:
         - Singapore 179097
     maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
 contacts:
-  - title: General Enquiries & Feedback
+  - title: Low Eik Sin
     content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
+    - phone: +65 6718 3766
+    - email: Low_Eik_Sin@nlb.gov.sg
     - other: Any text here <i>including HTML</i>
-  - title: Careers
+  - title: Kim Wong
     content:
-    - email: careers@abc.gov.sg
+	- phone: +65 6718 3087
+    - email: Wong_Kim_Nguk@nlb.gov.sg
 ---
