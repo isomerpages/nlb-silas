@@ -2,13 +2,13 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: SILAS
+agency_name: SILAS Secretariat
 locations:
-  - title: Main Office
+  - title: Library Supply Centre
     address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+        - 3 Changi South St 2
+        - #03-00 Xiling Districentre Building B
+        - Singapore 486548
 contacts:
   - title: General Enquiries & Feedback
     content:
