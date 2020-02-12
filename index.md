@@ -4,7 +4,7 @@ title: SILAS
 description: SILAS is a membership organisation managed by National Library Board of Singapore
 image: /images/logo-silas.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: 
 sections:
     - hero:
         title: SILAS
