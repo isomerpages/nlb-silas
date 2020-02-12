@@ -28,7 +28,7 @@ third_nav_title: Category
 
 **Recorded webinars from [Training modules for RDA](http://goo.gl/D9kFn){:target="_blank"} by Library of Congress**
 1. [FRBR Fundamental Concept](http://www.loc.gov/catworkshop/RDA%20training%20materials/LC%20RDA%20Training/MP4-FRBR%20Overview/FRBR%20Overview%20and%20Application_20120828.mp4){:target="_blank"}
-2. Introduction to RDA; Identifying Manifestations and Items: [part 1])http://www.loc.gov/catworkshop/RDA%20training%20materials/LC%20RDA%20Training/MP4-RDA-Module-1/Module-1-Part-1.mp4){:target="_blank"}, [part 2](http://www.loc.gov/catworkshop/RDA%20training%20materials/LC%20RDA%20Training/MP4-RDA-Module-1/Module-1-Part-2.mp4){:target="_blank"}
+2. Introduction to RDA; Identifying Manifestations and Items: [part 1](http://www.loc.gov/catworkshop/RDA%20training%20materials/LC%20RDA%20Training/MP4-RDA-Module-1/Module-1-Part-1.mp4){:target="_blank"}, [part 2](http://www.loc.gov/catworkshop/RDA%20training%20materials/LC%20RDA%20Training/MP4-RDA-Module-1/Module-1-Part-2.mp4){:target="_blank"}
 3. Describing Carriers and Identifying Works: [part 1](http://www.loc.gov/catworkshop/RDA%20training%20materials/LC%20RDA%20Training/MP4-RDA-Module-2/Module-2-Part-1.mp4){:target="_blank"}, [part 2](http://www.loc.gov/catworkshop/RDA%20training%20materials/LC%20RDA%20Training/MP4-RDA-Module-2/Module-2-Part-2.mp4){:target="_blank"}.
 4. [Identifying Expressions and Describing Content](http://www.loc.gov/catworkshop/RDA%20training%20materials/LC%20RDA%20Training/MP4-RDA%20Module%203/RDA%20Module%203-Identifying%20Expressions%20and%20Describing%20Content.mp4){:target="_blank"}
 
