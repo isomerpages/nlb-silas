@@ -1,5 +1,5 @@
 ---
-title: Bibliographic Control (General Cataloguing)
-permalink: /document-library/bibliographic-control-general-cataloguing/
+title: Bibliographic Control (Cataloguing Particular Material)
+permalink: /document-library/bibliographic-control-cataloguing-particular-material/
 third_nav_title: Category
 ---
