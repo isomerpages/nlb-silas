@@ -4,11 +4,16 @@ layout: page
 
 {{- content -}}
 
-members-layout
-
 {%- assign members = site.data.members -%}
 <div class="row is-multiline padding--bottom--lg" id="silas-members">
 	{%- for member in members.members -%}
-		<b>{{- member.name -}}</b><br>
+		<div class="col padding--top padding--bottom bg-table-grey">
+			<p class="is-marginless padding--top--sm">
+            <b>{{- member.name -}}</b><br>
+			{%- if member.ic -%}
+				<small class="is-uppercase" style="font-size: 0.75rem">{{- member.ic -}}</small><br>
+			{%- endif -%}
+          </p>
+		</div>
 	{%- endfor -%}
 </div>
