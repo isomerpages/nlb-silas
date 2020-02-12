@@ -12,9 +12,9 @@ locations:
 contacts:
   - title: Low Eik Sin
     content:
-	- other: Bibliographic Manager (Covering)
     - phone: +65 6718 3766
     - email: Low_Eik_Sin@nlb.gov.sg
+    - other: Bibliographic Manager (Covering)
   - title: Kim Wong
     content:
     - email: Wong_Kim_Nguk@nlb.gov.sg
