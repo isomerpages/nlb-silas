@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Singapore Integrated Library Automated Services
+        title: SILAS
         subtitle: Membership organisation managed by National Library Board of Singapore to provide bibliographic services and products to Singapore libraries since 1987
         background: /images/herobanner.png
         button: Learn More
