@@ -4,22 +4,14 @@ title: Contact Us
 permalink: /contact-us/
 agency_name: SILAS
 locations:
-  - title: Main Office
+  - title: SILAS Secretariat
     address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+        - Library Supply Centre
+        - National Library Board
+		- 3 Changi South St 2
+		- #03-00 Xiling Districentre Building B
+        - Singapore 486548
+    maps_link: https://goo.gl/maps/289LZgmXgTfDxjX6A
 contacts:
   - title: General Enquiries & Feedback
     content:
