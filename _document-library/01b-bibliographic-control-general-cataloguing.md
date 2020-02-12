@@ -80,18 +80,18 @@ to its divisions of BIBCO, CONSER, NACO, and SACO.
 
 - **025.431 : The Dewey blog**
 	- <http://ddc.typepad.com>{:target=_blank}
-> maintained by OCLC. Contains updates and discussions on the different Dewey classes
+	- maintained by OCLC. Contains updates and discussions on the different Dewey classes
 
 - **OCLC Classify**
-	- http://classify.oclc.org/classify2/>{:target=_blank}
-> This is a prototype service designed to support the assignment of classification numbers for books, DVDs, CDs, and many other types of materials. The prototype provides access to more than 36 million WorldCat records that contain DDC, LCC and NLM. You can retrieve the classification summary by ISBN, ISSN, UPC, OCLC number, or author/title.
+	- <http://classify.oclc.org/classify2/>{:target=_blank}
+	- This is a prototype service designed to support the assignment of classification numbers for books, DVDs, CDs, and many other types of materials. The prototype provides access to more than 36 million WorldCat records that contain DDC, LCC and NLM. You can retrieve the classification summary by ISBN, ISSN, UPC, OCLC number, or author/title.
 
 - **OCLC Dewey Services** – Includes monthly updates, product information.
 	- <http://www.oclc.org/dewey>{:target=_blank}
 
 - **Library of Congress Classification System**
 	- <https://www.loc.gov/catdir/cpso/lcc.html>{:target=_blank}
-> An outline of the scheme
+	- An outline of the scheme
 
 - **NLM Classification** – contains outlines of the NLM Classification.
 	- <http://wwwcf.nlm.nih.gov/class>{:target=_blank}
