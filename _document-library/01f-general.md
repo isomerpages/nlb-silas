@@ -7,7 +7,7 @@ third_nav_title: Category
 #### **Librarian’s Resources**
 
 - Alacra (Business Information & Companies)
-	- <www.alacra.com>{:target="_blank"}
+	- <http://www.alacra.com>{:target="_blank"}
 	- This site helps customers find, organize, and present the critical business information required to execute transactions, manage client engagements, and research business opportunities. It will help cataloguers with information about companies. Alacra also provides a single point of access to more than 100 commercial business databases and the Alacra Business Web, archives 45,000 content-rich, business-information-only websites indexed by type of publisher, topics of coverage, industries and countries.
 - British Library Integrated Catalogue
 	- <http://catalogue.bl.uk>{:target="_blank"}
@@ -22,7 +22,7 @@ third_nav_title: Category
 	- <http://www.ipl.org/>{:target="_blank"}
 	- The Internet Public Library is a public service organization and a learning/teaching environment founded at the University of Michigan School of Information and hosted by Drexel University’s College of Information Science & Technology. It provides services as generated content and answers the Ask a Question reference service.
 - Library Information Resources
-	- http://www.refdesk.com/factlib.html>{:target="_blank"}
+	- <http://www.refdesk.com/factlib.html>{:target="_blank"}
 	- Refdesk aims to index, review, and publish quality, credible information-based Web sites and to assist readers in navigating and extracting needed data from these sites and it also a place to start your Internet research and explorations.
 - Library Spot
 	- <http://www.libraryspot.com/>{:target="_blank"}
