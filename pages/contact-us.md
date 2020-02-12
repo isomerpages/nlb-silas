@@ -14,7 +14,7 @@ contacts:
     content:
     - phone: +65 6718 3766
     - email: Low_Eik_Sin@nlb.gov.sg
-    - other: "Bibliographic Manager (Covering)"
+    - other: Bibliographic Manager (Covering)
   - title: Kim Wong
     content:
 	- phone: +65 6718 3087
