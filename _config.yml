@@ -20,7 +20,9 @@ colors:
 
 
 collections:
-  about:
+  who-we-are:
+    output: true
+  document-library:
     output: true
   events:
     output: true
