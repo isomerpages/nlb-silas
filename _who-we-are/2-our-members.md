@@ -1,4 +1,4 @@
 ---
-title: Contact Silas
-permalink: /who-we-are/contact-silas/
+title: Our Members
+permalink: /who-we-are/our-members/
 ---
