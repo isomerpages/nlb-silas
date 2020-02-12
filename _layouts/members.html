@@ -8,10 +8,7 @@ members-layout
 
 {%- assign members = site.data.members -%}
 <div class="row is-multiline padding--bottom--lg" id="silas-members">
-	{%- for member in members -%}
-		<div class="col padding--top padding--bottom bg-table-grey">
-			<p class="is-marginless padding--top--sm">
-            <b>{{- member.name -}}</b><br>
-		</div>
+	{%- for member in members.members -%}
+		<b>{{- member.name -}}</b><br>
 	{%- endfor -%}
 </div>
