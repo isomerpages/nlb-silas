@@ -1,176 +1,176 @@
 # SILAS Members
 members:
-    - name: Anglo-Chinese Independent School
-      ic: Mr Leo Joon Meng
-      email: leojoonmeng@acsindep.edu.sg
-      address: "121-Dover Road, Singapore 139650"
-      tel: 6870 0650
-    - name: Asian Civilisations Museum
-      ic: Ms Denisonde Simbol
-      email: Denisonde_SIMBOL@nhb.gov.sg
-      address: "1 Empress Place, Singapore 179555"
-      tel: 6332 7885
-    - name: Civil Service College
-      ic: Ms Rosyati Ahmad
-      email: Ms Rosyati Ahmad
-      address: "31 North Buona Vista Road, Singapore 275983"
-      tel: 6874 1825
-    - name: Defence Science & Technology Agency
-      ic: Ms Stephanie Seow
-      email: irc@dsta.gov.sg
-      address: "1 Depot Road, Defence Tech Tower A, #03-01J, Singapore 109676"
-      tel: 6373 4989
-    - name: Institute of Technical Education
-      ic: Ms Jenny Tay (Jenny_A_G_Tay@ite.edu.sg)
-      address: 2 Ang Mo Kio Drive, Singapore 567720
-      tel: 6590 2357
-    - name: Intercultural Theatre Institute
-      ic: Mr Khalid Bin Supandi (Curriculum Coordinator)
-      email: khalid@iti.edu.sg
-      address: "Emily Hill, 11 Upper Wilkie Road, Singapore 228120"
-      tel: 63385133
-    - name: Juvenile Homes, Ministry of Social and Family Development
-      ic: Ms Magesvari Ashok Kumar
-      email: Magesvari_Ashok_Kumar@msf.gov.sg
-      tel: 6488 1056
-    - name: "KK Women’s & Children’s Hospital"
-      ic: Ms Peggy Fong
-      email: library@kkh.com.sg
-      address: "100 Bukit Timah Road, Singapore 229899"
-      tel: 6394 1598
-    - name: Land Transport Authority
-      ic: Ms Rebecca How
-      email: rebecca_how@lta.gov.sg
-      address: "No. 1 Hampshire Road, Singapore 219428"
-      tel: 6396 1680
-    - name: Management Development Institute of Singapore
-      ic: Mr Frankie Wu
-      email: frankie_wust@mdis.edu.sg
-      address: "501 Stirling Road, Singapore 148951"
-      tel: 6796 7801
-    - name: Monetary Authority of Singapore
-      ic: Ms Soh Mai Choo
-      email: mcsoh@mas.gov.sg
-      address: "10 Shenton Way, #01-01, MAS Building Singapore 079117"
-      tel: 6229 9323
-    - name: Nanyang Girls High School
-      ic: Mr Wen Di
-      email: wen_di@nygh.edu.sg
-      address: "2 Linden Drive, Singapore 288683"
-    - name: Nanyang Junior College
-      ic: Mrs Chan-Lai Siew Phing
-      email: lai_siew_phing@moe.edu.sg
-      address: "128, Serangoon, Ave 3, Singapore 556111"
-      tel: 6380 5145
-    - name: Nanyang Polytechnic Library
-      ic: Mr Ong Cheng Leong 
-      email: Ong_Cheng_Leong@nyp.edu.sg
-      address: "180 Ang Mo Kio, Avenue 8, Singapore 569830"
-      tel: 6550 0175
-    - name: Nanyang Technological University
-      ic: Ms Ng Chay Tuan
-      email: CTNG@ntu.edu.sg
-      address: Biblographic Services Division, Wee Nam Library, 50 Nanyang Avenue, Singapore 639798
-      tel: 6790 4690
-    - name: Nanyang Technological University (Lee Kong Chian School of Medicine)
-      ic: Ms Caroline Pang
-      email: carolinepang@ntu.edu.sg
-      address: "11 Mandalay Road, Singapore 308232"
-      tel: 6592 2443
-    - name: National Archives of Singapore
-      ic: Ms Zainah Arshad
-      email: Zainah_Arshad@nlb.gov.sg
-      address: "1 Canning Rise, Singapore 179868"
-      tel: 6332 7909
-    - name: National Library Board
-    - name: National University of Singapore
-      ic: Mr Ong Hong Kiat
-      email: clbonghk@nus.edu.sg
-      address: "Central Library, 12 Kent Ridge Crescent, Singapore 119275"
-      tel: 6516 2037
-    - name: Ngee Ann Polytechnic
-      ic: Ms Lim Li Hoon
-      email: LIM_Li_Hoon@np.edu.sg
-      address: "Lien Ying Chow Library, 535 Clementi Road, Singapore 599489"
-      tel: 6460 7512
-    - name: National Institute of Education
-      ic: Ms Wan-Yeoh Seok Kwan
-      email: seokkwan.yeoh@nie.edu.sg
-      address: "NIE Library, 1 Nanyang Walk, Singapore 637616"
-      tel: 6790 3633
-    - name: Parliament House
-      ic: Ms Lim Puay Ling
-      email: lim_puay_ling@parl.gov.sg
-      address: "1 Parliament Place, Singapore 178880"
-      tel: 6332 5534
-    - name: Raffles Girls School (Secondary)
-      ic: Ms Florence Tay
-      email: florence.tay@rafflesgirlssch.edu.sg
-      address: "2 Braddell Rise, Singapore 318871"
-      tel: 6838 7831
-    - name: Raffles Institution
-      ic: Ms Joanna Yu
-      email: comms@ri.edu.sg
-      address: "One Raffles Institution Lane, Singapore 575954"
-      tel: 6419 9888
-    - name: Republic Polytechnic
-      ic: Mr Balambikai (Bala)
-      email: help-library@rp.edu.sg
-      address: "9 Woodlands Avenue 9, Singapore 738984"
-      tel: 6697 1212
-    - name: Singapore Botanic Gardens
-      ic: Ms Christina Soh
-      email: Christina_Soh@nparks.gov.sg
-      tel: 6471 9921
-    - name: Singapore Chinese Girls School
-      ic: Mrs Amanda Chia
-      email: amanda_sim@moe.edu.sg
-      address: "190 Dunearn Rd, Singapore 309437"                                                 
-    - name: Singapore Civil Defence Force
-      ic: Ms Normah Abu Hassan
-      email: scdf_cda_library@scdf.gov.sg
-      address: "Civil Defence Academy Resource Library, CDA Complex, 91 Jalan Bahar Singapore 649735"
-      tel: 6794 5694 
-    - name: Singapore History Museum
-      ic: Ms Tan Chor Koon
-      email: Tan_Chor_Koon@nhb.gov.sg
-      address: "93 Stamford Road, Singapore 178897"
-      tel: 6332 3570
-    - name: Singapore Institute of Management
-      ic: Ms Catherine Victoria
-      email: catherined@sim.edu.sg
-      address: "461, Clementi Road, Singapore 599491"
-      tel: 6248 9593
-    - name: Singapore Institute of Technology
-      ic: Ms Kimmy Xing
-      email: Kimmy.Xing@Singaporetech.edu.sg
-      address: "10, Dover Drive, Singapore 138683"
-      tel: 6592 1901
-    - name: Singapore Management University
-      ic: Ms Nazimah Ram
-      email: library@smu.edu.sg
-      address: "Li Ka Shing Library, 70 Stamford Road, Singapore 178901"
-      tel: 6828 0355
-    - name: Singapore Polytechnic
-      ic: Ms Ooi, Kooi Cheng
-      email: library@sp.edu.sg
-      address: 500 Dover Road, Singapore 139651
-      tel: 6772 1516
-    - name: Singapore University of Technology and Design
-      address: "8 Somapah Rd, Building 1, Singapore 487372"
-      tel: 6303 6600
-    - name: St Andrews Junior College
-      ic: Mrs Sim Goek Sew
-      email: library@sajc.edu.sg
-      address: "5, Sorby Adams Drive, Singapore 357691"
-      tel: 6282 9074
-    - name: Temasek Polytechnic Library
-      ic: Ms Wong Choy Min
-      email: choyming@tp.edu.sg
-      address: "21 Tampines Avenue 1, Singapore 529757"
-      tel: 6788 2000
-    - name: Urban Redevelopment Authority
-      ic: Ms Tay Wan Jee
-      email: ura_resource_centre@ura.gov.sg
-      address: "Urban Redevelopment Authority, 45 Maxwell Road, 4th storey, Podium, The URA Centre, Singapore 069118"
-      tel: 6321 8370
+  - name: Anglo-Chinese Independent School
+    ic: Mr Leo Joon Meng
+    email: leojoonmeng@acsindep.edu.sg
+    address: "121-Dover Road, Singapore 139650"
+    tel: 6870 0650
+  - name: Asian Civilisations Museum
+    ic: Ms Denisonde Simbol
+    email: Denisonde_SIMBOL@nhb.gov.sg
+    address: "1 Empress Place, Singapore 179555"
+    tel: 6332 7885
+  - name: Civil Service College
+    ic: Ms Rosyati Ahmad
+    email: Ms Rosyati Ahmad
+    address: "31 North Buona Vista Road, Singapore 275983"
+    tel: 6874 1825
+  - name: Defence Science & Technology Agency
+    ic: Ms Stephanie Seow
+    email: irc@dsta.gov.sg
+    address: "1 Depot Road, Defence Tech Tower A, #03-01J, Singapore 109676"
+    tel: 6373 4989
+  - name: Institute of Technical Education
+    ic: Ms Jenny Tay (Jenny_A_G_Tay@ite.edu.sg)
+    address: 2 Ang Mo Kio Drive, Singapore 567720
+    tel: 6590 2357
+  - name: Intercultural Theatre Institute
+    ic: Mr Khalid Bin Supandi (Curriculum Coordinator)
+    email: khalid@iti.edu.sg
+    address: "Emily Hill, 11 Upper Wilkie Road, Singapore 228120"
+    tel: 63385133
+  - name: Juvenile Homes, Ministry of Social and Family Development
+    ic: Ms Magesvari Ashok Kumar
+    email: Magesvari_Ashok_Kumar@msf.gov.sg
+    tel: 6488 1056
+  - name: "KK Women’s & Children’s Hospital"
+    ic: Ms Peggy Fong
+    email: library@kkh.com.sg
+    address: "100 Bukit Timah Road, Singapore 229899"
+    tel: 6394 1598
+  - name: Land Transport Authority
+    ic: Ms Rebecca How
+    email: rebecca_how@lta.gov.sg
+    address: "No. 1 Hampshire Road, Singapore 219428"
+    tel: 6396 1680
+  - name: Management Development Institute of Singapore
+    ic: Mr Frankie Wu
+    email: frankie_wust@mdis.edu.sg
+    address: "501 Stirling Road, Singapore 148951"
+    tel: 6796 7801
+  - name: Monetary Authority of Singapore
+    ic: Ms Soh Mai Choo
+    email: mcsoh@mas.gov.sg
+    address: "10 Shenton Way, #01-01, MAS Building Singapore 079117"
+    tel: 6229 9323
+  - name: Nanyang Girls High School
+    ic: Mr Wen Di
+    email: wen_di@nygh.edu.sg
+    address: "2 Linden Drive, Singapore 288683"
+  - name: Nanyang Junior College
+    ic: Mrs Chan-Lai Siew Phing
+    email: lai_siew_phing@moe.edu.sg
+    address: "128, Serangoon, Ave 3, Singapore 556111"
+    tel: 6380 5145
+  - name: Nanyang Polytechnic Library
+    ic: Mr Ong Cheng Leong 
+    email: Ong_Cheng_Leong@nyp.edu.sg
+    address: "180 Ang Mo Kio, Avenue 8, Singapore 569830"
+    tel: 6550 0175
+  - name: Nanyang Technological University
+    ic: Ms Ng Chay Tuan
+    email: CTNG@ntu.edu.sg
+    address: Biblographic Services Division, Wee Nam Library, 50 Nanyang Avenue, Singapore 639798
+    tel: 6790 4690
+  - name: Nanyang Technological University (Lee Kong Chian School of Medicine)
+    ic: Ms Caroline Pang
+    email: carolinepang@ntu.edu.sg
+    address: "11 Mandalay Road, Singapore 308232"
+    tel: 6592 2443
+  - name: National Archives of Singapore
+    ic: Ms Zainah Arshad
+    email: Zainah_Arshad@nlb.gov.sg
+    address: "1 Canning Rise, Singapore 179868"
+    tel: 6332 7909
+  - name: National Library Board
+  - name: National University of Singapore
+    ic: Mr Ong Hong Kiat
+    email: clbonghk@nus.edu.sg
+    address: "Central Library, 12 Kent Ridge Crescent, Singapore 119275"
+    tel: 6516 2037
+  - name: Ngee Ann Polytechnic
+    ic: Ms Lim Li Hoon
+    email: LIM_Li_Hoon@np.edu.sg
+    address: "Lien Ying Chow Library, 535 Clementi Road, Singapore 599489"
+    tel: 6460 7512
+  - name: National Institute of Education
+    ic: Ms Wan-Yeoh Seok Kwan
+    email: seokkwan.yeoh@nie.edu.sg
+    address: "NIE Library, 1 Nanyang Walk, Singapore 637616"
+    tel: 6790 3633
+  - name: Parliament House
+    ic: Ms Lim Puay Ling
+    email: lim_puay_ling@parl.gov.sg
+    address: "1 Parliament Place, Singapore 178880"
+    tel: 6332 5534
+  - name: Raffles Girls School (Secondary)
+    ic: Ms Florence Tay
+    email: florence.tay@rafflesgirlssch.edu.sg
+    address: "2 Braddell Rise, Singapore 318871"
+    tel: 6838 7831
+  - name: Raffles Institution
+    ic: Ms Joanna Yu
+    email: comms@ri.edu.sg
+    address: "One Raffles Institution Lane, Singapore 575954"
+    tel: 6419 9888
+  - name: Republic Polytechnic
+    ic: Mr Balambikai (Bala)
+    email: help-library@rp.edu.sg
+    address: "9 Woodlands Avenue 9, Singapore 738984"
+    tel: 6697 1212
+  - name: Singapore Botanic Gardens
+    ic: Ms Christina Soh
+    email: Christina_Soh@nparks.gov.sg
+    tel: 6471 9921
+  - name: Singapore Chinese Girls School
+    ic: Mrs Amanda Chia
+    email: amanda_sim@moe.edu.sg
+    address: "190 Dunearn Rd, Singapore 309437"                         
+  - name: Singapore Civil Defence Force
+    ic: Ms Normah Abu Hassan
+    email: scdf_cda_library@scdf.gov.sg
+    address: "Civil Defence Academy Resource Library, CDA Complex, 91 Jalan Bahar Singapore 649735"
+    tel: 6794 5694 
+  - name: Singapore History Museum
+    ic: Ms Tan Chor Koon
+    email: Tan_Chor_Koon@nhb.gov.sg
+    address: "93 Stamford Road, Singapore 178897"
+    tel: 6332 3570
+  - name: Singapore Institute of Management
+    ic: Ms Catherine Victoria
+    email: catherined@sim.edu.sg
+    address: "461, Clementi Road, Singapore 599491"
+    tel: 6248 9593
+  - name: Singapore Institute of Technology
+    ic: Ms Kimmy Xing
+    email: Kimmy.Xing@Singaporetech.edu.sg
+    address: "10, Dover Drive, Singapore 138683"
+    tel: 6592 1901
+  - name: Singapore Management University
+    ic: Ms Nazimah Ram
+    email: library@smu.edu.sg
+    address: "Li Ka Shing Library, 70 Stamford Road, Singapore 178901"
+    tel: 6828 0355
+  - name: Singapore Polytechnic
+    ic: Ms Ooi, Kooi Cheng
+    email: library@sp.edu.sg
+    address: 500 Dover Road, Singapore 139651
+    tel: 6772 1516
+  - name: Singapore University of Technology and Design
+    address: "8 Somapah Rd, Building 1, Singapore 487372"
+    tel: 6303 6600
+  - name: St Andrews Junior College
+    ic: Mrs Sim Goek Sew
+    email: library@sajc.edu.sg
+    address: "5, Sorby Adams Drive, Singapore 357691"
+    tel: 6282 9074
+  - name: Temasek Polytechnic Library
+    ic: Ms Wong Choy Min
+    email: choyming@tp.edu.sg
+    address: "21 Tampines Avenue 1, Singapore 529757"
+    tel: 6788 2000
+  - name: Urban Redevelopment Authority
+    ic: Ms Tay Wan Jee
+    email: ura_resource_centre@ura.gov.sg
+    address: "Urban Redevelopment Authority, 45 Maxwell Road, 4th storey, Podium, The URA Centre, Singapore 069118"
+    tel: 6321 8370
