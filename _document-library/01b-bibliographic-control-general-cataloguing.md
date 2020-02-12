@@ -25,6 +25,7 @@ Library of Congress, Program for Cooperative Cataloging- Home page of the PCC, w
 to its divisions of BIBCO, CONSER, NACO, and SACO.
 <http://www.loc.gov/aba/pcc>{:target=_blank}
 
+<hr/>
 
 #### **Cataloguing Tools**
 
@@ -55,3 +56,5 @@ to its divisions of BIBCO, CONSER, NACO, and SACO.
 - **Terminologies Service (OCLC Cataloguing and Metadata)** – The Terminologies Service website provides access to multiple controlled vocabularies to help you create consistent metadata for your library collections. It is easy as copy-and-paste into a workform or template once you find a term to use in your description, improving the description of (and access to) your digital and hard copy materials.
 	- <https://www.oclc.org/research/archive/projects/termservices.html>{:target=_blank}
 	- <https://help.oclc.org/Metadata_Services/CONTENTdm/Project_Client/Enter_metadata/Work_with_a_controlled_vocabulary>{:target=_blank}
+
+<hr/>
