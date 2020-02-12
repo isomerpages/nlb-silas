@@ -11,8 +11,6 @@ links:
     collection: who-we-are
   - title: Document Library
     collection: document-library
-  - title: Blog
-    resource_room: true
   - title: Virtual Union Catalogue
     url: https://www.vuc.sg/
   - title: Contact Us
