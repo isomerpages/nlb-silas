@@ -10,7 +10,7 @@ third_nav_title: Category
 	- [Authorities: Formats and Standards](http://www.oclc.org/support/documentation/worldcat/authorities/authformat/default.htm){:target="_blank"}
 - [OCLC Connexion Documentation](http://www.oclc.org/support/documentation/connexion/default.htm){:target="_blank"}
 	- [Connexion client documentation, Connexion browser documentation, Connexion Client Authorities Quick Reference](http://www.oclc.org/support/documentation/connexion/client/authorities/authquickref/clientauthoritiesquickreference.pdf){:target="_blank"}
-- [OCLC Usage Statistics](http://www.stats.oclc.org/cusp/nav](http://psw.oclc.org/login.aspx){:target="_blank"}
+- [OCLC Usage Statistics](http://www.stats.oclc.org/cusp/nav){:target="_blank"}
 - [OCLC Software Download](http://psw.oclc.org/login.aspx){:target="_blank"}: Connexion client, Macros and scripts.
 - [DDC22](http://www.oclc.org/dewey/versions/ddc22print/){:target="_blank"}: an introduction, a glossary and a list of new features.
 	- [Webinar: A preview of DDC23](http://ddc.typepad.com/025431/2011/03/ddc-23-webinar.html){:target="_blank"}: a preview of the changes in the new version of DDC
