@@ -10,12 +10,12 @@ locations:
         - #03-00 Xiling Districentre Building B
         - Singapore 486548
 contacts:
-  - title: General Enquiries & Feedback
+  - title: Low Eik Sin
     content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
+    - phone: +65 6718 3766
+    - email: Low_Eik_Sin@nlb.gov.sg
+    - other: Bibliographic Manager (Covering)
+  - title: Kim Wong
     content:
-    - email: careers@abc.gov.sg
+    - email: Wong_Kim_Nguk@nlb.gov.sg
 ---
