@@ -5,15 +5,35 @@ layout: page
 {{- content -}}
 
 {%- assign members = site.data.members -%}
-<div class="row is-multiline padding--bottom--lg" id="silas-members">
-	{%- for member in members.members -%}
-		<div class="col padding--top padding--bottom bg-table-grey">
-			<p class="is-marginless padding--top--sm">
-            <b>{{- member.name -}}</b><br>
-			{%- if member.ic -%}
-				<small class="is-uppercase" style="font-size: 0.75rem">{{- member.ic -}}</small><br>
-			{%- endif -%}
-          </p>
-		</div>
-	{%- endfor -%}
+<div class="content">
+	<div class="row is-multiline padding--bottom--lg" id="silas-members">
+		{%- for member in members.members -%}
+			<div class="col is-half person-info-card padding--right">
+				<div class="row margin--bottom--xs margin--right">
+					<div class="col is-one-third image-col">
+						{%- if member.image-url -%}
+							<img class="margin--right--none" src="{{- site.baseurl -}}{{- member.image-url -}}">
+						{%- endif -%}
+					</div>
+					<div class="col padding--top padding--bottom bg-table-grey">
+						<p class="is-marginless padding--top--sm">
+							<b>{{- member.name -}}</b><br>
+							{%- if member.ic -%}
+								<small class="is-uppercase" style="font-size: 0.75rem">{{- member.ic -}}</small><br>
+							{%- endif -%}
+							{%- if member.address -%}
+								<small class="is-uppercase" style="font-size: 0.75rem">{{- member.address -}}</small><br>
+							{%- endif -%}
+							{%- if member.email -%}
+								<small class="is-uppercase" style="font-size: 0.75rem">{{- member.email -}}</small><br>
+							{%- endif -%}
+							{%- if member.tel -%}
+								<small class="is-uppercase" style="font-size: 0.75rem">{{- member.tel -}}</small><br>
+							{%- endif -%}
+						</p>
+					</div>
+				</div>
+			</div>
+		{%- endfor -%}
+	</div>
 </div>
