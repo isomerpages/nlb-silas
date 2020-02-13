@@ -19,13 +19,13 @@ layout: page
 						<p class="is-marginless padding--top--sm">
 							<b>{{- member.name -}}</b><br>
 							{%- if member.ic -%}
-								<small class="is-uppercase" style="font-size: 0.75rem">{{- member.ic -}}</small><br>
+								<b><small class="is-uppercase" style="font-size: 0.75rem">{{- member.ic -}}</small></b><br>
 							{%- endif -%}
 							{%- if member.address -%}
 								<small class="is-uppercase" style="font-size: 0.75rem">{{- member.address -}}</small><br>
 							{%- endif -%}
 							{%- if member.email -%}
-								<small class="is-uppercase" style="font-size: 0.75rem">{{- member.email -}}</small><br>
+								<a href="mailto:{{- member.email -}}"><small class="is-uppercase" style="font-size: 0.75rem">{{- member.email -}}</small></a><br>
 							{%- endif -%}
 							{%- if member.tel -%}
 								<small class="is-uppercase" style="font-size: 0.75rem">{{- member.tel -}}</small><br>
