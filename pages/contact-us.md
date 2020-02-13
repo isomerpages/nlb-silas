@@ -17,5 +17,6 @@ contacts:
     - other: Bibliographic Manager (Covering)
   - title: Kim Wong
     content:
+    - phone: +65 6718 3087
     - email: Wong_Kim_Nguk@nlb.gov.sg
 ---
