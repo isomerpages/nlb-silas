@@ -10,8 +10,12 @@ locations:
         - #03-00 Xiling Districentre Building B
         - Singapore 486548
 contacts:
-  - title: 
+  - title: Low Eik Sin
     content:
-    - phone: +65 6718 3087
-    - email: silas@silas.org.sg
+    - phone: +65 6718 3766
+    - email: Low_Eik_Sin@nlb.gov.sg
+	- other: "Bibliographic Manager (Covering)"
+  - title: Kim Wong
+    content:
+	- email: Wong_Kim_Nguk@nlb.gov.sg
 ---
