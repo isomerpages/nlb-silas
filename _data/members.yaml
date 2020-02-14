@@ -40,8 +40,7 @@ members:
     address: "100 Bukit Timah Road, Singapore 229899"
     tel: 6394 1598
   - name: Land Transport Authority
-    ic: Ms Rebecca How
-    email: rebecca_how@lta.gov.sg
+    email: LTA_library@lta.gov.sg
     address: "No. 1 Hampshire Road, Singapore 219428"
     tel: 6396 1680
   - name: Management Development Institute of Singapore
@@ -85,7 +84,7 @@ members:
     tel: 6332 7909
   - name: National Library Board
   - name: National University of Singapore
-    ic: Mr Ong Hong Kiat
+    ic: Ms Ong Hong Kiat
     email: clbonghk@nus.edu.sg
     address: "Central Library, 12 Kent Ridge Crescent, Singapore 119275"
     tel: 6516 2037
@@ -153,7 +152,7 @@ members:
     address: "Li Ka Shing Library, 70 Stamford Road, Singapore 178901"
     tel: 6828 0355
   - name: Singapore Polytechnic
-    ic: Ms Ooi, Kooi Cheng
+    ic: Ms Lem Lei Kin
     email: library@sp.edu.sg
     address: 500 Dover Road, Singapore 139651
     tel: 6772 1516
@@ -166,7 +165,7 @@ members:
     address: "5, Sorby Adams Drive, Singapore 357691"
     tel: 6282 9074
   - name: Temasek Polytechnic Library
-    ic: Ms Wong Choy Min
+    ic: Ms Wong Choy Ming
     email: choyming@tp.edu.sg
     address: "21 Tampines Avenue 1, Singapore 529757"
     tel: 6788 2000
