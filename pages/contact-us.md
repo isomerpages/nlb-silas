@@ -6,7 +6,8 @@ agency_name: SILAS Secretariat
 locations:
   - title: Library Supply Centre
     address:
-        - 3 Changi South St 2
+        - National Library Board
+		- 3 Changi South St 2
         - #03-00 Xiling Districentre Building B
         - Singapore 486548
 contacts:
