@@ -1,6 +1,6 @@
-title: Title
+title: National Library Board
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon-silas.jpg
 
 # Site colors
 colors:
@@ -20,11 +20,13 @@ colors:
 
 
 collections:
-  about:
+  who-we-are:
+    output: true
+  document-library:
     output: true
   events:
     output: true
-resources_name: reading-room
+resources_name: blog
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #

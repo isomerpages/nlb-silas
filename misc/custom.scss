@@ -5,13 +5,16 @@
 @charset "utf-8";
 
 // Agency brand colors
-$primary: {{- site.colors.primary-color -}};
-$secondary: {{- site.colors.secondary-color -}};
+$primary: #245b92;
+$secondary: #245b92;
 $secondary-hover: lighten($secondary, 10%);
 
-{%- for media-color in site.colors.media-colors -%}
-  ${{- media-color.title -}}: {{- media-color.color -}};
-{%- endfor -%}
+// Resources page colors
+$media-color-one: #7f8c8d;
+$media-color-two: #7f8c8d;
+$media-color-three: #7f8c8d;
+$media-color-four: #7f8c8d;
+$media-color-five: #7f8c8d;
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
