@@ -1,5 +1,5 @@
 title: National Library Board
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://silas.nlb.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-silas.jpg
 
 # Analytics
