@@ -2,6 +2,9 @@ title: National Library Board
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-silas.jpg
 
+# Analytics
+google_analytics: UA-50449401-27
+
 # Site colors
 colors:
   primary-color: '#6031b6'
