@@ -301,7 +301,7 @@ There are currently 37 library members of SILAS. They are from higher learning i
 				<div class="col is-one-third image-col"></div>
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
-					<b>Singapore Polytechnic</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Lem Lei Kin</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">500 Dover Road, Singapore 139651</small><br><a href="mailto:library@sp.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">library@sp.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6772 1516</small><br></p>
+					<b>Singapore Polytechnic</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Lem Lei Kin</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">500 Dover Road, Singapore 139651</small><br><a href="mailto:library@sp.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">library@sp.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6775 1133</small><br></p>
 				</div>
 			</div>
 		</div><div class="col is-half person-info-card padding--right">
