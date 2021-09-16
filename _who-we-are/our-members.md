@@ -2,8 +2,7 @@
 title: Our Members
 permalink: /who-we-are/our-members/
 ---
-
-There are currently 37 library members of SILAS. They are from higher learning institutions, ministries and government agencies, schools and junior colleges.
+There are currently 36 library members of SILAS. They are from higher learning institutions, ministries and government agencies, schools and junior colleges.
 
 <p/>
 
@@ -275,7 +274,7 @@ There are currently 37 library members of SILAS. They are from higher learning i
 				<div class="col is-one-third image-col"></div>
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
-					<b>Singapore Institute of Management</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Catherine Victoria</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">461, Clementi Road, Singapore 599491</small><br><a href="mailto:catherined@sim.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">catherined@sim.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6248 9593</small><br></p>
+					<b>Singapore Institute of Management</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Linda Nah</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">461, Clementi Road, Singapore 599491</small><br><a href="mailto:catherined@sim.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">lindanah@sim.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6248 9593</small><br></p>
 				</div>
 			</div>
 		</div>
@@ -293,7 +292,7 @@ There are currently 37 library members of SILAS. They are from higher learning i
 				<div class="col is-one-third image-col"></div>
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
-					<b>Singapore Management University</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Nazimah Ram</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">Li Ka Shing Library, 70 Stamford Road, Singapore 178901</small><br><a href="mailto:library@smu.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">library@smu.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6828 0355</small><br></p>
+					<b>Singapore Management University</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Veronica Wang</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">Li Ka Shing Library, 70 Stamford Road, Singapore 178901</small><br><a href="mailto:library@smu.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">veronicawang@smu.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6828 0355</small><br></p>
 				</div>
 			</div>
 		</div><div class="col is-half person-info-card padding--right">
@@ -340,4 +339,4 @@ There are currently 37 library members of SILAS. They are from higher learning i
 			</div>
 		</div>
 	</div>
-</div> 
+</div>
