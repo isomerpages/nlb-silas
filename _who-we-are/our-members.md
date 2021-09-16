@@ -94,7 +94,7 @@ There are currently 36 library members of SILAS. They are from higher learning i
 				<div class="col is-one-third image-col"></div>
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
-					<b>Monetary Authority of Singapore</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Soh Mai Choo</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">10 Shenton Way, #01-01, MAS Building Singapore 079117</small><br><a href="mailto:mcsoh@mas.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">mcsoh@mas.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6229 9323</small><br></p>
+					<b>Monetary Authority of Singapore</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Soh Mai Choo</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">10 Shenton Way, #28-00, MAS Building Singapore 079117</small><br><a href="mailto:mcsoh@mas.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">mcsoh@mas.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6229 9323</small><br></p>
 				</div>
 			</div>
 		</div>
