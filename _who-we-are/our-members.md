@@ -86,16 +86,7 @@ There are currently 36 library members of SILAS. They are from higher learning i
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
 					<b>Land Transport Authority</b><br><small class="is-uppercase" style="font-size: 0.75rem">No. 1 Hampshire Road, Singapore 219428</small><br><a href="mailto:LTA_library@lta.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">LTA_library@lta.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6396 1680</small><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Management Development Institute of Singapore</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Mr Frankie Wu</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">501 Stirling Road, Singapore 148951</small><br><a href="mailto:frankie_wust@mdis.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">frankie_wust@mdis.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6796 7801</small><br></p>
-				</div>
+						</div>
 			</div>
 		</div>
 		<div class="col is-half person-info-card padding--right">
@@ -140,16 +131,7 @@ There are currently 36 library members of SILAS. They are from higher learning i
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
 					<b>Nanyang Technological University</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Ng Chay Tuan</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">Biblographic Services Division, Wee Nam Library, 50 Nanyang Avenue, Singapore 639798</small><br><a href="mailto:CTNG@ntu.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">CTNG@ntu.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6790 4690</small><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Nanyang Technological University (Lee Kong Chian School of Medicine)</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Caroline Pang</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">11 Mandalay Road, Singapore 308232</small><br><a href="mailto:carolinepang@ntu.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">carolinepang@ntu.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6592 2443</small><br></p>
-				</div>
+							</div>
 			</div>
 		</div>
 		<div class="col is-half person-info-card padding--right">
