@@ -238,15 +238,6 @@ There are currently 36 library members of SILAS. They are from higher learning i
 				<div class="col is-one-third image-col"></div>
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
-					<b>Singapore Botanic Gardens</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Christina Soh</small></b><br><a href="mailto:Christina_Soh@nparks.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">Christina_Soh@nparks.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6471 9921</small><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
 					<b>Singapore Chinese Girls School</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Mrs Amanda Chia</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">190 Dunearn Rd, Singapore 309437</small><br><a href="mailto:amanda_sim@moe.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">amanda_sim@moe.edu.sg</small></a><br></p>
 				</div>
 			</div>
@@ -309,15 +300,7 @@ There are currently 36 library members of SILAS. They are from higher learning i
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
 					<b>Singapore University of Technology and Design</b><br><small class="is-uppercase" style="font-size: 0.75rem">8 Somapah Rd, Building 1, Singapore 487372</small><br><small class="is-uppercase" style="font-size: 0.75rem">6303 6600</small><br></p>
-				</div>
-			</div>
-		</div><div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>St Andrews Junior College</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Mrs Sim Goek Sew</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">5, Sorby Adams Drive, Singapore 357691</small><br><a href="mailto:library@sajc.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">library@sajc.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6282 9074</small><br></p>
-				</div>
+							</div>
 			</div>
 		</div>
 		<div class="col is-half person-info-card padding--right">
