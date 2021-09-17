@@ -220,7 +220,7 @@ There are currently 36 library members of SILAS. They are from higher learning i
 				<div class="col is-one-third image-col"></div>
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
-					<b>Raffles Institution</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Joanna Yu</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">One Raffles Institution Lane, Singapore 575954</small><br><a href="mailto:comms@ri.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">comms@ri.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6419 9888</small><br></p>
+					<b>Raffles Institution</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms May Chua</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">One Raffles Institution Lane, Singapore 575954</small><br><a href="mailto:comms@ri.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">comms@ri.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6419 9888</small><br></p>
 				</div>
 			</div>
 		</div>
@@ -247,7 +247,7 @@ There are currently 36 library members of SILAS. They are from higher learning i
 				<div class="col is-one-third image-col"></div>
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
-					<b>Singapore Civil Defence Force</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Normah Abu Hassan</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">Civil Defence Academy Resource Library, CDA Complex, 91 Jalan Bahar Singapore 649735</small><br><a href="mailto:scdf_cda_library@scdf.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">scdf_cda_library@scdf.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6794 5694</small><br></p>
+					<b>Singapore Civil Defence Force</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Major Revathi Veerasamy</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">Civil Defence Academy Resource Library, CDA Complex, 91 Jalan Bahar Singapore 649735</small><br><a href="mailto:scdf_cda_library@scdf.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">scdf_cda_library@scdf.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6794 5606</small><br></p>
 				</div>
 			</div>
 		</div>
@@ -265,7 +265,7 @@ There are currently 36 library members of SILAS. They are from higher learning i
 				<div class="col is-one-third image-col"></div>
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
-					<b>Singapore Institute of Management</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Linda Nah</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">461, Clementi Road, Singapore 599491</small><br><a href="mailto:catherined@sim.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">lindanah@sim.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6248 9593</small><br></p>
+					<b>Singapore Institute of Management</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Linda Nah</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">461, Clementi Road, Singapore 599491</small><br><a href="mailto:lindanah@sim.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">lindanah@sim.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6248 9593</small><br></p>
 				</div>
 			</div>
 		</div>
@@ -299,7 +299,7 @@ There are currently 36 library members of SILAS. They are from higher learning i
 				<div class="col is-one-third image-col"></div>
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
-					<b>Singapore University of Social Sciences</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Vivient Tan</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">463 Clementi Road, Singapore 599494</small><br><a href="mailto:vivientanhl@suss.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">vivientanhl@suss.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">62480450</small><br></p>
+					<b>Singapore University of Social Sciences</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Vivien Tan</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">463 Clementi Road, Singapore 599494</small><br><a href="mailto:vivientanhl@suss.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">vivientanhl@suss.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">62480450</small><br></p>
 				</div>
 			</div>
 		</div><div class="col is-half person-info-card padding--right">
