@@ -49,7 +49,16 @@ There are currently 36 library members of SILAS. They are from higher learning i
 				<div class="col is-one-third image-col"></div>
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
-					<b>Defence Science & Technology Agency</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Stephanie Seow</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">1 Depot Road, Defence Tech Tower A, #03-01J, Singapore 109676</small><br><a href="mailto:irc@dsta.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">irc@dsta.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6373 4989</small><br></p>
+					<b>Defence Science & Technology Agency</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Stephanie Seow</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">1 Depot Road, Defence Tech Tower A, #03-01J, Singapore 109676</small><br><a href="mailto:irc@dsta.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">irc@dsta.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6373 4989</small><br></p>				
+				</div>
+			</div>
+		</div>
+		<div class="col is-half person-info-card padding--right">
+			<div class="row margin--bottom--xs margin--right">
+				<div class="col is-one-third image-col"></div>
+				<div class="col padding--top padding--bottom bg-table-grey">
+					<p class="is-marginless padding--top--sm">
+					<b>ISEAS - Yusof Ishak Institute</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Veronica Boudville</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">30 Heng Mui Keng Terrace, Singapore 119614</small><br><a href="mailto:veronica_boudville@iseas.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">veronica_boudville@iseas.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">67780955</small><br></p>
 				</div>
 			</div>
 		</div>
