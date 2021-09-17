@@ -149,7 +149,7 @@ There are currently 36 library members of SILAS. They are from higher learning i
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
 					<b>Nanyang Technological University</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Ng Chay Tuan</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">Biblographic Services Division, Wee Nam Library, 50 Nanyang Avenue, Singapore 639798</small><br><a href="mailto:CTNG@ntu.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">CTNG@ntu.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6790 4690</small><br></p>
-							</div>
+				</div>
 			</div>
 		</div>
 		<div class="col is-half person-info-card padding--right">
@@ -157,7 +157,7 @@ There are currently 36 library members of SILAS. They are from higher learning i
 				<div class="col is-one-third image-col"></div>
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
-					<b>National Archives of Singapore</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Zainah Arshad</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">1 Canning Rise, Singapore 179868</small><br><a href="mailto:Zainah_Arshad@nlb.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">Zainah_Arshad@nlb.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6332 7909</small><br></p>
+					<b>National Archives of Singapore</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Irene Lim</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">1 Canning Rise, Singapore 179868</small><br><a href="mailto:Irene_LL_LIM@nlb.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">Irene _LL_LIM@nlb.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6718 3274</small><br></p>
 				</div>
 			</div>
 		</div>
@@ -238,7 +238,7 @@ There are currently 36 library members of SILAS. They are from higher learning i
 				<div class="col is-one-third image-col"></div>
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
-					<b>Singapore Chinese Girls School</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Mrs Amanda Chia</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">190 Dunearn Rd, Singapore 309437</small><br><a href="mailto:amanda_sim@moe.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">amanda_sim@moe.edu.sg</small></a><br></p>
+					<b>Singapore Chinese Girls School</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Wong Wai Mun</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">190 Dunearn Rd, Singapore 309437</small><br><a href="mailto:wong_wai_mun_a@moe.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">wong_wai_mun_a@moe.edu.sg</small></a><br></p>
 				</div>
 			</div>
 		</div>
@@ -299,8 +299,16 @@ There are currently 36 library members of SILAS. They are from higher learning i
 				<div class="col is-one-third image-col"></div>
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
-					<b>Singapore University of Technology and Design</b><br><small class="is-uppercase" style="font-size: 0.75rem">8 Somapah Rd, Building 1, Singapore 487372</small><br><small class="is-uppercase" style="font-size: 0.75rem">6303 6600</small><br></p>
-							</div>
+					<b>Singapore University of Social Sciences</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Vivient Tan</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">463 Clementi Road, Singapore 599494</small><br><a href="mailto:vivientanhl@suss.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">vivientanhl@suss.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">62480450</small><br></p>
+				</div>
+			</div>
+		</div><div class="col is-half person-info-card padding--right">
+			<div class="row margin--bottom--xs margin--right">
+				<div class="col is-one-third image-col"></div>
+				<div class="col padding--top padding--bottom bg-table-grey">
+					<p class="is-marginless padding--top--sm">
+					<b>Singapore University of Technology and Design</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Judy Teo</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">8 Somapah Rd, Building 1, Singapore 487372</small><br><a href="mailto:judy_teo@sutd.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">judy_teo@sutd.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6303 6600</small><br></p>
+				</div>
 			</div>
 		</div>
 		<div class="col is-half person-info-card padding--right">
