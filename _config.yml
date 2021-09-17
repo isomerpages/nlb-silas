@@ -21,16 +21,6 @@ colors:
     - title: media-color-five
       color: '#00838f'
 
-
-collections:
-  who-we-are:
-    output: true
-  document-library:
-    output: true
-  events:
-    output: true
-resources_name: blog
-
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
 ##################################################################################################################
@@ -49,10 +39,13 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+description: test test
+
+staging: https://nlb-silas-staging.netlify.com/
+prod: https://nlb-silas-prod.netlify.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
-
+  - jekyll-remote-theme
