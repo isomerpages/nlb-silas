@@ -23,6 +23,15 @@ There are currently 36 library members of SILAS. They are from higher learning i
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
 					<b>Asian Civilisations Museum</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Denisonde Simbol</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">1 Empress Place, Singapore 179555</small><br><a href="mailto:Denisonde_SIMBOL@nhb.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">Denisonde_SIMBOL@nhb.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6332 7885</small><br></p>
+					</div>
+			</div>
+		</div>
+		<div class="col is-half person-info-card padding--right">
+			<div class="row margin--bottom--xs margin--right">
+				<div class="col is-one-third image-col"></div>
+				<div class="col padding--top padding--bottom bg-table-grey">
+					<p class="is-marginless padding--top--sm">
+					<b>AWWA</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Susan Tan</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">11 Lorong Napiri, ACCESS Building</small><br><a href="mailto:susan_tan@awwa.org.sg"><small class="is-uppercase" style="font-size: 0.75rem">susan_tan@awwa.org.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">65115280</small><br></p>
 				</div>
 			</div>
 		</div>
@@ -31,7 +40,7 @@ There are currently 36 library members of SILAS. They are from higher learning i
 				<div class="col is-one-third image-col"></div>
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
-					<b>Civil Service College</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Rosyati Ahmad</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">31 North Buona Vista Road, Singapore 275983</small><br><a href="mailto:Ms Rosyati Ahmad"><small class="is-uppercase" style="font-size: 0.75rem">Ms Rosyati Ahmad</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6874 1825</small><br></p>
+					<b>Civil Service College</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Mr Jonalis Kamis</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">31 North Buona Vista Road, Singapore 275983</small><br><a href="mailto: Jonalis_KAMIS@csccollege.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">Jonalis_KAMIS@csccollege.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6874 1825</small><br></p>
 				</div>
 			</div>
 		</div>
