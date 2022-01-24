@@ -47,7 +47,7 @@ National Gallery Singapore, Ms Michelle Tay, 1 St. Andrew's Road, Singapore 1789
 National Library Board
 
 
-National Parks Board (Singapore Botanic Gardens)
+National Parks Board (Library of Botany), Dr Nura Abdul Karim, 1 Cluny Road, Singapore Botanic Gardens, Singapore 259569, NURA_ABDUL_KARIM@nparks.gov.sg, 64719866
 
 National University of Singapore, Ms Ong Hong Kiat, Central Library, 12 Kent Ridge Crescent, Singapore 119275, clbonghk@nus.edu.sg, 6516 2037
 
