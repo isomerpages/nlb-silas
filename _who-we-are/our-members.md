@@ -2,7 +2,7 @@
 title: Our Members
 permalink: /who-we-are/our-members/
 ---
-There are currently 36 library members of SILAS. They are from higher learning institutions, ministries and government agencies, schools and junior colleges.
+There are currently 38 library members of SILAS. They are from higher learning institutions, ministries and government agencies, schools and junior colleges.
 
 <p/>
 
@@ -167,9 +167,8 @@ There are currently 36 library members of SILAS. They are from higher learning i
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is marginless padding--top--sm">
 					<b>National Gallery Singapore</b><br><b>
-					<small class="is upper-case" style="font-size: 0.75rem">Ms Michelle Tay</small></b><br>
-						<small class="is upper-case" style="font size: 0.75rem">1 St. Andrew's Road, Singapore 178957</small><br><a href="mailto:michelle.tay@nationalgallery.sg"><small class="is upper-case" style="font-size: 0.75rem">66909446</small branch><br><p>
-				</div>
+<small class="is upper-case" style="font-size: 0.75rem">Ms Michelle Tay</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">1 St. Andrew's Road, Singapore 178957</small><br><a href="mailto:michelle.tay@nationalgallery.sg"><small class="is-uppercase" style="font-size: 0.75rem">66909446</small><br></p>
+			 </div>
 			</div>
 		</div>
 		<div class="col is-half person-info-card padding--right">
