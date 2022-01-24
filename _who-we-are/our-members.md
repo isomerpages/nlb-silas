@@ -142,7 +142,7 @@ There are currently 36 library members of SILAS. They are from higher learning i
 					<b>Nanyang Polytechnic Library</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Mr Ong Cheng Leong</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">180 Ang Mo Kio, Avenue 8, Singapore 569830</small><br><a href="mailto:Ong_Cheng_Leong@nyp.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">Ong_Cheng_Leong@nyp.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6550 0175</small><br></p>
 				</div>
 			</div>
-		</div>
+		 </div>
 		<div class="col is-half person-info-card padding--right">
 			<div class="row margin--bottom--xs margin--right">
 				<div class="col is-one-third image-col"></div>
@@ -158,6 +158,17 @@ There are currently 36 library members of SILAS. They are from higher learning i
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
 					<b>National Archives of Singapore</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Irene Lim</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">1 Canning Rise, Singapore 179868</small><br><a href="mailto:Irene_LL_LIM@nlb.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">Irene _LL_LIM@nlb.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6718 3274</small><br></p>
+				</div>
+			</div>
+		</div>
+		<div class="col is-half person-info-card padding--right">
+			<div class="row margin--bottom--xs margin--right">
+				<div class="col is one-third image-col"></div>
+				<div class="col padding--top padding--bottom bg-table-grey">
+					<p class="is marginless padding--top--sm">
+					<b>National Gallery Singapore</b><br><b>
+					<small class="is upper-case" style="font-size: 0.75rem">Ms Michelle Tay</small></b><br>
+						<small class="is upper-case" style="font size: 0.75rem">1 St. Andrew's Road, Singapore 178957</small><br><a href="mailto:michelle.tay@nationalgallery.sg"><small class="is upper-case" style="font-size: 0.75rem">66909446</small branch><br><p>
 				</div>
 			</div>
 		</div>
@@ -317,17 +328,6 @@ There are currently 36 library members of SILAS. They are from higher learning i
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
 					<b>Temasek Polytechnic Library</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Ong Peik Keng</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">21 Tampines Avenue 1, Singapore 529757</small><br><a href="mailto:peikkeng@tp.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">peikkeng@tp.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6788 2000</small><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Urban Redevelopment Authority</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Tay Wan Jee</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">Urban Redevelopment Authority, 45 Maxwell Road, 4th storey, Podium, The URA Centre, Singapore 069118</small><br><a href="mailto:ura_resource_centre@ura.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">ura_resource_centre@ura.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6321 8370</small><br></p>
-				</div>
-			</div>
 		</div>
 	</div>
 </div>
