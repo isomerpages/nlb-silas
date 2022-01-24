@@ -51,78 +51,25 @@ National University of Singapore, Ms Ong Hong Kiat, Central Library, 12 Kent Rid
 
 Ngee Ann Polytechnic, Ms Lim Li Hoon, Lien Ying Chow Library, 535 Clementi Road, Singapore 599489, LIM_Li_Hoon@np.edu.sg, 6460 7512
 
-National Institute of Education, Ms Wan-Yeoh Seok Kwan, NIE Library, ` Nanyan, Sing Walk, Singre 6, >6790 3633
+National Institute of Education, Ms Wan-Yeoh Seok Kwan, NIE Library, 1 Nanyang Walk, Singapore 637616, seokkwan.yeoh@nie.edu.sg, 6790 3633 
 
-div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Parliament House</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Lim Puay Ling</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">1 Parliament Place, Singapore 178880</small><br><a href="mailto:lim_puay_ling@parl.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">lim_puay_ling@parl.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6332 5534</small><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Raffles Girls School (Secondary)</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Florence Tay</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">2 Braddell Rise, Singapore 318871</small><br><a href="mailto:florence.tay@rafflesgirlssch.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">florence.tay@rafflesgirlssch.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6838 7831</small><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Raffles Institution</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Mr Frank Seah Eng Kiat</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">One Raffles Institution Lane, Singapore 575954</small><br><a href="mailto:comms@ri.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">engkiat.seah@ri.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6419 9888</small><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Republic Polytechnic</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Mr Balambikai (Bala)</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">9 Woodlands Avenue 9, Singapore 738984</small><br><a href="mailto:help-library@rp.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">help-library@rp.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6697 1212</small><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Singapore Chinese Girls School</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Wong Wai Mun</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">190 Dunearn Rd, Singapore 309437</small><br><a href="mailto:wong_wai_mun_a@moe.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">wong_wai_mun_a@moe.edu.sg</small></a><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Singapore Civil Defence Force</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Major Revathi Veerasamy</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">Civil Defence Academy Resource Library, CDA Complex, 91 Jalan Bahar Singapore 649735</small><br><a href="mailto:scdf_cda_library@scdf.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">scdf_cda_library@scdf.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6794 5606</small><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Singapore History Museum</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Tan Chor Koon</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">93 Stamford Road, Singapore 178897</small><br><a href="mailto:Tan_Chor_Koon@nhb.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">Tan_Chor_Koon@nhb.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6332 3570</small><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Singapore Institute of Management</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Linda Nah</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">461, Clementi Road, Singapore 599491</small><br><a href="mailto:lindanah@sim.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">lindanah@sim.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6248 9593</small><br></p>
-				</div>
+Parliament House, Ms Lim Puay Ling, 1 Parliament Place, Singapore 178880, lim_puay_ling@parl.gov.sg, 6332 5534
+
+Raffles Girls School (Secondary), Ms Florence Tay, 2 Braddell Rise, Singapore 318871, florence.tay@rafflesgirlssch.edu.sg, 6838 7831
+
+Raffles Institution, Mr Frank Seah Eng Kiat, One Raffles Institution Lane, Singapore 575954, engkiat.seah@ri.edu.sg, 6419 9888
+
+Republic Polytechnic Library, Mr Balambikai (Bala), 9 Woodlands Avenue 9, Singapore 738984, help-library@rp.edu.sg, 6697 1212
+
+Singapore Chinese Girls School, Ms Wong Wai Mun, 190 Dunearn Rd, Singapore 309437, wong_wai_mun_a@moe.edu.sg
+
+Singapore Civil Defence Force, Major Revathi Veerasamy, Civil Defence Academy Resource Library, CDA Complex, 91 Jalan Bahar Singapore 649735, scdf_cda_library@scdf.gov.sg, 6794 5606
+
+Singapore History Museum, Ms Tan Chor Koon, 93 Stamford Road, Singapore 178897, Tan_Chor_Koon@nhb.gov.sg, 6332 3570
+
+Ms Linda Nah, 461 Clementi Road, Singapore 599491, lindanah@sim.edu.sg, 6248 9593
+
+/div>
 			</div>
 		</div>
 		<div class="col is-half person-info-card padding--right">
