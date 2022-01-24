@@ -165,9 +165,9 @@ There are currently 38 library members of SILAS. They are from higher learning i
 			<div class="row margin--bottom--xs margin--right">
 				<div class="col is one-third image-col"></div>
 				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is marginless padding--top--sm">
+					<p class="is-marginless padding--top--sm">
 					<b>National Gallery Singapore</b><br><b>
-<small class="is upper-case" style="font-size: 0.75rem">Ms Michelle Tay</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">1 St. Andrew's Road, Singapore 178957</small><br><a href="mailto:michelle.tay@nationalgallery.sg"><small class="is-uppercase" style="font-size: 0.75rem">66909446</small><br></p>
+<small class="is-uppercase" style="font-size: 0.75rem">Ms Michelle Tay</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">1 St. Andrew's Road, Singapore 178957</small><br><a href="mailto:michelle.tay@nationalgallery.sg"><small class="is-uppercase" style="font-size: 0.75rem">66909446</small><br></p>
 			 </div>
 			</div>
 		</div>
