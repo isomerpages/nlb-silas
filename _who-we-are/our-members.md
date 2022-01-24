@@ -51,7 +51,7 @@ National University of Singapore, Ms Ong Hong Kiat, Central Library, 12 Kent Rid
 
 Ngee Ann Polytechnic, Ms Lim Li Hoon, Lien Ying Chow Library, 535 Clementi Road, Singapore 599489, LIM_Li_Hoon@np.edu.sg, 6460 7512
 
-National Institute of Education, Ms Wan-Yeoh Seok Kwan, NIE Library, a1 Nanyng Walk, Singre 6, >6790 3633
+National Institute of Education, Ms Wan-Yeoh Seok Kwan, NIE Library, ` Nanyan, Sing Walk, Singre 6, >6790 3633
 
 div class="col is-half person-info-card padding--right">
 			<div class="row margin--bottom--xs margin--right">
