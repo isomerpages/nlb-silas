@@ -13,160 +13,47 @@ Asian Civilisations Museum, Ms Denisonde Simbol, 1 Empress Place, Singapore 1795
 
 AWWA, Ms Susan Tan, 11 Lorong Napiri, ACCESS Building, susan_tan@awwa.org.sg, 65115280
 
-Civil Service College, Ms Zalina Khalid, 31 North Buona Vista Road, Singapore 275983, Zalina_KHALID@csccollege.gov.sg
+Civil Service College, Ms Zalina Khalid, 31 North Buona Vista Road, Singapore 275983, Zalina_KHALID@csccollege.gov.sg, 6874 1825
 
-Defence Science & Technology Agency, Ms Stephanie Seow, 1 Depot Road, Defence Tech Tower A, #03-01J, Singapore 109676, irc@dsta.gov.sg
+Defence Science & Technology Agency, Ms Stephanie Seow, 1 Depot Road, Defence Tech Tower A, #03-01J, Singapore 109676, irc@dsta.gov.sg, 6373 4989
 
-ISEAS - Yusof Ishak Institute, Ms Veronica Boudville, 30 Heng Mui Keng Terrace, Singapore 119614, veronica_boudville@iseas.edu.sg7780955</small><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Institute of Technical Education</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Jenny Tay</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">2 Ang Mo Kio Drive, Singapore 567720</small><br><a href="mailto:Jenny_A_G_Tay@ite.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">Jenny_A_G_Tay@ite.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6590 2357</small><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Intercultural Theatre Institute</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Mr Khalid Bin Supandi (Curriculum Coordinator)</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">Emily Hill, 11 Upper Wilkie Road, Singapore 228120</small><br><a href="mailto:khalid@iti.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">khalid@iti.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">63385133</small><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Juvenile Homes, Ministry of Social and Family Development</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Magesvari Ashok Kumar</small></b><br><a href="mailto:Magesvari_Ashok_Kumar@msf.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">Magesvari_Ashok_Kumar@msf.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6488 1056</small><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>KK Women’s & Children’s Hospital</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Peggy Fong</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">100 Bukit Timah Road, Singapore 229899</small><br><a href="mailto:library@kkh.com.sg"><small class="is-uppercase" style="font-size: 0.75rem">library@kkh.com.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6394 1598</small><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Land Transport Authority</b><br><small class="is-uppercase" style="font-size: 0.75rem">No. 1 Hampshire Road, Singapore 219428</small><br><a href="mailto:LTA_library@lta.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">LTA_library@lta.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6396 1680</small><br></p>
-						</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Monetary Authority of Singapore</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Soh Mai Choo</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">10 Shenton Way, #28-00, MAS Building Singapore 079117</small><br><a href="mailto:mcsoh@mas.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">mcsoh@mas.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6229 9323</small><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Nanyang Girls High School</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Mr Wen Di</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">2 Linden Drive, Singapore 288683</small><br><a href="mailto:wen_di@nygh.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">wen_di@nygh.edu.sg</small></a><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Nanyang Junior College</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Mrs Chan-Lai Siew Phing</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">128, Serangoon, Ave 3, Singapore 556111</small><br><a href="mailto:lai_siew_phing@moe.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">lai_siew_phing@moe.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6380 5145</small><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Nanyang Polytechnic Library</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Mr Ong Cheng Leong</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">180 Ang Mo Kio, Avenue 8, Singapore 569830</small><br><a href="mailto:Ong_Cheng_Leong@nyp.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">Ong_Cheng_Leong@nyp.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6550 0175</small><br></p>
-				</div>
-			</div>
-		 </div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Nanyang Technological University</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Ng Chay Tuan</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">Biblographic Services Division, Wee Nam Library, 50 Nanyang Avenue, Singapore 639798</small><br><a href="mailto:CTNG@ntu.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">CTNG@ntu.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6790 4690</small><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>National Archives of Singapore</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Irene Lim</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">1 Canning Rise, Singapore 179868</small><br><a href="mailto:Irene_LL_LIM@nlb.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">Irene _LL_LIM@nlb.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6718 3274</small><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>National Gallery Singapore</b><br><b>
-<small class="is-uppercase" style="font-size: 0.75rem">Ms Michelle Tay</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">1 St. Andrew's Road, Singapore 178957</small><br><a href="mailto:michelle.tay@nationalgallery.sg"><small class="is-uppercase" style="font-size: 0.75rem">66909446</small><br></p>
-			 </div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>National Library Board</b><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>National University of Singapore</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Ong Hong Kiat</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">Central Library, 12 Kent Ridge Crescent, Singapore 119275</small><br><a href="mailto:clbonghk@nus.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">clbonghk@nus.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6516 2037</small><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Ngee Ann Polytechnic</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Lim Li Hoon</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">Lien Ying Chow Library, 535 Clementi Road, Singapore 599489</small><br><a href="mailto:LIM_Li_Hoon@np.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">LIM_Li_Hoon@np.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6460 7512</small><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>National Institute of Education</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Wan-Yeoh Seok Kwan</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">NIE Library, 1 Nanyang Walk, Singapore 637616</small><br><a href="mailto:seokkwan.yeoh@nie.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">seokkwan.yeoh@nie.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6790 3633</small><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
+ISEAS - Yusof Ishak Institute, Ms Veronica Boudville, 30 Heng Mui Keng Terrace, Singapore 119614, veronica_boudville@iseas.edu.sg, 67780955
+
+Institute of Technical Education, Ms Jenny Tay, 2 Ang Mo Kio Drive, Singapore 567720, Jenny_A_G_TAY@ite.edu.sg, 6590 2357
+
+Intercultural Theatre Institute, Mr Khalid Bin Supandi (Curriculum Coordinator), Emily Hill, 11 Upper Wilkie Road, Singapore 228120, khalid@iti.edu.sg, 63385133
+
+Juvenile Homes, Ministry of Social and Family Development, Ms Magesvari Ashok Kumar, Magesvari_Ashok_Kumar@msf.gov.sg, 6488 1056
+
+KK Women’s & Children’s Hospital, Ms Peggy Fong, 100 Bukit Timah Road, Singapore 229899, library@kkh.com.sg, 6394 1598
+
+Land Transport Authority, No. 1 Hampshire Road, Singapore 219428, LTA_library@lta.gov.sg, 6396 1680
+
+Monetary Authority of Singapore, Ms Soh Mai Choo, 10 Shenton Way, #28-00, MAS Building Singapore 079117, mcsoh@mas.gov.sg, 6229 9323
+
+Nanyang Girls High School, Mr Wen Di, 2 Linden Drive, Singapore 288683, wen_di@nygh.edu.sg
+
+Nanyang Junior College, Mrs Chan-Lai Siew Phing, 128 Serangoon, Ave 3, Singapore 556111, lai_siew_phing@moe.edu.sg, 6380 5145
+
+Nanyang Polytechnic Library, Mr Ong Cheng Leong, 180 Ang Mo Kio, Avenue 8, Singapore 569830, Ong_Cheng_Leong@nyp.edu.sg, 6550 0175
+
+Nanyang Technological University, Ms Ng Chay Tuan, Biblographic Services Division, Wee Nam Library, 50 Nanyang Avenue, Singapore 639798, CTNG@ntu.edu.sg, 6790 4690
+
+National Archives of Singapore, Ms Irene Lim, 1 Canning Rise, Singapore 179868, Irene_LL_LIM@nlb.gov.sg, XXXX
+
+National Gallery Singapore, Ms Michelle Tay, 1 St. Andrew's Road, Singapore 178957, michelle.tay@nationalgallery.sg, 6909446
+
+
+National Library Board
+
+
+National University of Singapore, Ms Ong Hong Kiat, Central Library, 12 Kent Ridge Crescent, Singapore 119275, clbonghk@nus.edu.sg, 6516 2037
+
+Ngee Ann Polytechnic, Ms Lim Li Hoon, Lien Ying Chow Library, 535 Clementi Road, Singapore 599489, LIM_Li_Hoon@np.edu.sg, 6460 7512
+
+National Institute of Education, Ms Wan-Yeoh Seok Kwan, NIE Library, a1 Nanyng Walk, Singre 6, >6790 3633
+
+div class="col is-half person-info-card padding--right">
 			<div class="row margin--bottom--xs margin--right">
 				<div class="col is-one-third image-col"></div>
 				<div class="col padding--top padding--bottom bg-table-grey">
