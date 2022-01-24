@@ -39,7 +39,7 @@ Nanyang Polytechnic (Library), Mr Ong Cheng Leong, 180 Ang Mo Kio, Avenue 8, Sin
 
 Nanyang Technological University, Ms Ng Chay Tuan, Biblographic Services Division, Wee Nam Library, 50 Nanyang Avenue, Singapore 639798, CTNG@ntu.edu.sg, 6790 4690
 
-National Archives of Singapore, Ms Irene Lim, 1 Canning Rise, Singapore 179868, Irene_LL_LIM@nlb.gov.sg, XXXX
+National Archives of Singapore, Ms Irene Lim, 1 Canning Rise, Singapore 179868, Irene_LL_LIM@nlb.gov.sg, 6718 3274
 
 National Gallery Singapore, Ms Michelle Tay, 1 St. Andrew's Road, Singapore 178957, michelle.tay@nationalgallery.sg, 6909446
 
