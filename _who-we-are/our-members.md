@@ -4,59 +4,37 @@ permalink: /who-we-are/our-members/
 ---
 There are currently 38 library members of SILAS. They are from higher learning institutions, ministries and government agencies, schools and junior colleges.
 
-<p/>
 
-<div class="content">
-	<div class="row is-multiline padding--bottom--lg" id="silas-members">
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Anglo-Chinese Independent School</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Mr Leo Joon Meng</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">121-Dover Road, Singapore 139650</small><br><a href="mailto:leojoonmeng@acsindep.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">leojoonmeng@acsindep.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6870 0650</small><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Asian Civilisations Museum</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Denisonde Simbol</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">1 Empress Place, Singapore 179555</small><br><a href="mailto:Denisonde_SIMBOL@nhb.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">Denisonde_SIMBOL@nhb.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6332 7885</small><br></p>
-					</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>AWWA</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Susan Tan</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">11 Lorong Napiri, ACCESS Building</small><br><a href="mailto:susan_tan@awwa.org.sg"><small class="is-uppercase" style="font-size: 0.75rem">susan_tan@awwa.org.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">65115280</small><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Civil Service College</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Mr Jonalis Kamis</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">31 North Buona Vista Road, Singapore 275983</small><br><a href="mailto: Jonalis_KAMIS@csccollege.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">Jonalis_KAMIS@csccollege.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6874 1825</small><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Defence Science & Technology Agency</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Stephanie Seow</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">1 Depot Road, Defence Tech Tower A, #03-01J, Singapore 109676</small><br><a href="mailto:irc@dsta.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">irc@dsta.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6373 4989</small><br></p>				
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
+
+Anglo-Chinese Independent School
+Mr Leo Joon Meng
+121 Dover Road, Singapore 139650
+leojoonmeng@acsindep.edu.sg
+6870 0650
+
+
+Asian Civilisations Museum
+Ms Denisonde Simbol
+1 Empress Place, Singapore 179555
+Denisonde_SIMBOL@nhb.gov.sg
+6332 7885
+
+AWWA
+Ms Susan Tan
+11 Lorong Napiri, ACCESS Building
+susan_tan@awwa.org.sg
+65115280
+
+Civil Service College
+Mr Jonalis Kamis
+31 North Buona Vista Road, Singapore 275983
+Jonalis_KAMIS@csccollege.gov.sg
+
+Defence Science & Technology Agency
+Ms Stephanie Seow
+1 Depot Road, Defence Tech Tower A, #03-01J, Singapore 109676
+irc@dsta.gov.sg
+
 					<p class="is-marginless padding--top--sm">
 					<b>ISEAS - Yusof Ishak Institute</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Veronica Boudville</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">30 Heng Mui Keng Terrace, Singapore 119614</small><br><a href="mailto:veronica_boudville@iseas.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">veronica_boudville@iseas.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">67780955</small><br></p>
 				</div>
