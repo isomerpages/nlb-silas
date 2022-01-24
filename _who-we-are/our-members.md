@@ -35,7 +35,7 @@ Nanyang Girls High School, Mr Wen Di, 2 Linden Drive, Singapore 288683, wen_di@n
 
 Nanyang Junior College, Mrs Chan-Lai Siew Phing, 128 Serangoon, Ave 3, Singapore 556111, lai_siew_phing@moe.edu.sg, 6380 5145
 
-Nanyang Polytechnic Library, Mr Ong Cheng Leong, 180 Ang Mo Kio, Avenue 8, Singapore 569830, Ong_Cheng_Leong@nyp.edu.sg, 6550 0175
+Nanyang Polytechnic (Library), Mr Ong Cheng Leong, 180 Ang Mo Kio, Avenue 8, Singapore 569830, Ong_Cheng_Leong@nyp.edu.sg, 6550 0175
 
 Nanyang Technological University, Ms Ng Chay Tuan, Biblographic Services Division, Wee Nam Library, 50 Nanyang Avenue, Singapore 639798, CTNG@ntu.edu.sg, 6790 4690
 
@@ -47,9 +47,11 @@ National Gallery Singapore, Ms Michelle Tay, 1 St. Andrew's Road, Singapore 1789
 National Library Board
 
 
+National Parks Board (Singapore Botanic Gardens)
+
 National University of Singapore, Ms Ong Hong Kiat, Central Library, 12 Kent Ridge Crescent, Singapore 119275, clbonghk@nus.edu.sg, 6516 2037
 
-Ngee Ann Polytechnic, Ms Lim Li Hoon, Lien Ying Chow Library, 535 Clementi Road, Singapore 599489, LIM_Li_Hoon@np.edu.sg, 6460 7512
+Ngee Ann Polytechnic (Library), Ms Lim Li Hoon, Lien Ying Chow Library, 535 Clementi Road, Singapore 599489, LIM_Li_Hoon@np.edu.sg, 6460 7512
 
 National Institute of Education, Ms Wan-Yeoh Seok Kwan, NIE Library, 1 Nanyang Walk, Singapore 637616, seokkwan.yeoh@nie.edu.sg, 6790 3633 
 
@@ -59,7 +61,7 @@ Raffles Girls School (Secondary), Ms Florence Tay, 2 Braddell Rise, Singapore 31
 
 Raffles Institution, Mr Frank Seah Eng Kiat, One Raffles Institution Lane, Singapore 575954, engkiat.seah@ri.edu.sg, 6419 9888
 
-Republic Polytechnic Library, Mr Balambikai (Bala), 9 Woodlands Avenue 9, Singapore 738984, help-library@rp.edu.sg, 6697 1212
+Republic Polytechnic, Mr Balambikai (Bala), 9 Woodlands Avenue 9, Singapore 738984, help-library@rp.edu.sg, 6697 1212
 
 Singapore Chinese Girls School, Ms Wong Wai Mun, 190 Dunearn Rd, Singapore 309437, wong_wai_mun_a@moe.edu.sg
 
@@ -71,42 +73,12 @@ Ms Linda Nah, 461 Clementi Road, Singapore 599491, lindanah@sim.edu.sg, 6248 959
 
 Singapore Institute of Technology, Ms Kimmy Xing, 10 Dover Drive, Singapore 138683, Kimmy.Xing@Singaporetech.edu.sg, 6592 1901
 
-ing--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Singapore Management University</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Veronica Wang</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">Li Ka Shing Library, 70 Stamford Road, Singapore 178901</small><br><a href="mailto:library@smu.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">veronicawang@smu.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6828 0355</small><br></p>
-				</div>
-			</div>
-		</div><div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Singapore Polytechnic</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Lem Lei Kin</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">500 Dover Road, Singapore 139651</small><br><a href="mailto:library@sp.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">library@sp.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6775 1133</small><br></p>
-				</div>
-			</div>
-		</div><div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Singapore University of Social Sciences</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Vivien Tan</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">463 Clementi Road, Singapore 599494</small><br><a href="mailto:vivientanhl@suss.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">vivientanhl@suss.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">62480450</small><br></p>
-				</div>
-			</div>
-		</div><div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Singapore University of Technology and Design</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Judy Teo</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">8 Somapah Rd, Building 1, Singapore 487372</small><br><a href="mailto:judy_teo@sutd.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">judy_teo@sutd.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6303 6600</small><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Temasek Polytechnic Library</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Ong Peik Keng</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">21 Tampines Avenue 1, Singapore 529757</small><br><a href="mailto:peikkeng@tp.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">peikkeng@tp.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6788 2000</small><br></p>
-		</div>
-	</div>
-</div>
+Singapore Management University, Ms Veronica Wang, Li Ka Shing Library, 70 Stamford Road, Singapore 178901, library@smu.edu.sg, 6828 0355
+
+Singapore Polytechnic (Library), Ms Lem Lei Kin, 500 Dover Road, Singapore 139651, library@sp.edu.sg, 6775 1133
+
+Singapore University of Social Sciences, Ms Vivien Tan, 463 Clementi Road, Singapore 599494, vivientanhl@suss.edu.sg, 62480450
+ 
+Singapore University of Technology and Design, Ms Judy Teo, 8 Somapah Rd, Building 1, Singapore 487372, judy_teo@sutd.edu.sg, 6303 6600
+
+Temasek Polytechnic (Library), Ms Ong Peik Keng, 21 Tampines Avenue 1, Singapore 529757, peikkeng@tp.edu.sg, 6788 2000
