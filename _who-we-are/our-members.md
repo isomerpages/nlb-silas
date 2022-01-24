@@ -220,7 +220,7 @@ There are currently 36 library members of SILAS. They are from higher learning i
 				<div class="col is-one-third image-col"></div>
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
-					<b>Raffles Institution</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms May Chua</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">One Raffles Institution Lane, Singapore 575954</small><br><a href="mailto:comms@ri.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">comms@ri.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6419 9888</small><br></p>
+					<b>Raffles Institution</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Mr Frank Seah Eng Kiat</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">One Raffles Institution Lane, Singapore 575954</small><br><a href="mailto:comms@ri.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">engkiat.seah@ri.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6419 9888</small><br></p>
 				</div>
 			</div>
 		</div>
