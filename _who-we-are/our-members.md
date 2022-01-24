@@ -69,22 +69,9 @@ Singapore History Museum, Ms Tan Chor Koon, 93 Stamford Road, Singapore 178897, 
 
 Ms Linda Nah, 461 Clementi Road, Singapore 599491, lindanah@sim.edu.sg, 6248 9593
 
-/div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>Singapore Institute of Technology</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Kimmy Xing</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">10, Dover Drive, Singapore 138683</small><br><a href="mailto:Kimmy.Xing@Singaporetech.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">Kimmy.Xing@Singaporetech.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6592 1901</small><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
+Singapore Institute of Technology, Ms Kimmy Xing, 10 Dover Drive, Singapore 138683, Kimmy.Xing@Singaporetech.edu.sg, 6592 1901
+
+ing--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
 					<b>Singapore Management University</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Veronica Wang</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">Li Ka Shing Library, 70 Stamford Road, Singapore 178901</small><br><a href="mailto:library@smu.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">veronicawang@smu.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6828 0355</small><br></p>
 				</div>
