@@ -13,12 +13,12 @@ locations:
     title: Library Supply Centre
 contacts:
   - content:
-      - phone: +65 6718 3766
+      - phone: +65 6992 3475
       - email: Low_Eik_Sin@nlb.gov.sg
       - other: Bibliographic Manager (Covering)
     title: Low Eik Sin
   - content:
-      - phone: +65 6718 3087
+      - phone: +65 6992 3498
       - email: Wong_Kim_Nguk@nlb.gov.sg
       - other: Librarian (Membership account matters)
     title: Kim Wong
