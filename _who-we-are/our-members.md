@@ -2,83 +2,220 @@
 title: Our Members
 permalink: /who-we-are/our-members/
 ---
-There are currently 38 library members of SILAS. They are from higher learning institutions, ministries and government agencies, schools and junior colleges.
+There are currently 36 library members of SILAS. They are from higher learning institutions, ministries and government agencies, schools and junior colleges.
 
 
 
-Anglo-Chinese Independent School, Mr Leo Joon Meng,
-121 Dover Road, Singapore 139650, leojoonmeng@acsindep.edu.sg, 6870 0650
+Anglo-Chinese Independent School,
+121 Dover Road, Singapore 139650,
+Mr Leo Joon Meng,
+leojoonmeng@acsindep.edu.sg, 
+6870 0650
 
-Asian Civilisations Museum, Ms Denisonde Simbol, 1 Empress Place, Singapore 179555, Denisonde_SIMBOL@nhb.gov.sg, 6332 7885
+Asian Civilisations Museum, 
+1 Empress Place, Singapore 179555,
+Ms Denisonde Simbol,
+Denisonde_SIMBOL@nhb.gov.sg, 
+6332 7885
 
-AWWA, Ms Susan Tan, 11 Lorong Napiri, ACCESS Building, susan_tan@awwa.org.sg, 65115280
+AWWA,
+11 Lorong Napiri, ACCESS Building,
+Ms Susan Tan,
+susan_tan@awwa.org.sg, 
+65115280
 
-Civil Service College, Ms Zalina Khalid, 31 North Buona Vista Road, Singapore 275983, Zalina_KHALID@csccollege.gov.sg, 6874 1825
+Civil Service College, 
+31 North Buona Vista Road, Singapore 275983, 
+Ms Zalina Khalid,
+Zalina_KHALID@csccollege.gov.sg, 
+6874 1825
 
-Defence Science & Technology Agency, Ms Stephanie Seow, 1 Depot Road, Defence Tech Tower A, #03-01J, Singapore 109676, irc@dsta.gov.sg, 6373 4989
+Defence Science & Technology Agency, 1 Depot Road, Defence Tech Tower A, #03-01J, Singapore 109676,
+Ms Stephanie Seow,
+irc@dsta.gov.sg, 
+6373 4989
 
-ISEAS - Yusof Ishak Institute, Ms Veronica Boudville, 30 Heng Mui Keng Terrace, Singapore 119614, veronica_boudville@iseas.edu.sg, 67780955
+ISEAS - Yusof Ishak Institute,
+30 Heng Mui Keng Terrace, Singapore 119614, 
+Ms Veronica Boudville,
+veronica_boudville@iseas.edu.sg,
+67780955
 
-Institute of Technical Education, Ms Jenny Tay, 2 Ang Mo Kio Drive, Singapore 567720, Jenny_A_G_TAY@ite.edu.sg, 6590 2357
+Institute of Technical Education, 
+2 Ang Mo Kio Drive, Singapore 567720,
+Ms Jenny Tay,
+Jenny_A_G_TAY@ite.edu.sg,
+6590 2357
 
-Intercultural Theatre Institute, Mr Khalid Bin Supandi (Curriculum Coordinator), Emily Hill, 11 Upper Wilkie Road, Singapore 228120, khalid@iti.edu.sg, 63385133
+Intercultural Theatre Institute, 
+Emily Hill, 11 Upper Wilkie Road, Singapore 228120, 
+Mr Khalid Bin Supandi (Curriculum Coordinator),
+khalid@iti.edu.sg,
+6338 5133
 
-Juvenile Homes, Ministry of Social and Family Development, Ms Magesvari Ashok Kumar, Magesvari_Ashok_Kumar@msf.gov.sg, 6488 1056
+Juvenile Homes,
+Ministry of Social and Family Development, 
+Ms Magesvari Ashok Kumar, 
+Magesvari_Ashok_Kumar@msf.gov.sg,
+6488 1056
 
-KK Women’s & Children’s Hospital, Ms Peggy Fong, 100 Bukit Timah Road, Singapore 229899, library@kkh.com.sg, 6394 1598
+KK Women’s & Children’s Hospital,
+100 Bukit Timah Road, Singapore 229899,
+Ms Peggy Fong,
+library@kkh.com.sg,
+6394 1598
 
-Land Transport Authority, No. 1 Hampshire Road, Singapore 219428, LTA_library@lta.gov.sg, 6396 1680
+Monetary Authority of Singapore, 
+10 Shenton Way, #28-00, 
+MAS Building Singapore 079117, 
+Ms Soh Mai Choo,
+mcsoh@mas.gov.sg,
+6229 9323
 
-Monetary Authority of Singapore, Ms Soh Mai Choo, 10 Shenton Way, #28-00, MAS Building Singapore 079117, mcsoh@mas.gov.sg, 6229 9323
+Nanyang Girls High School, 
+2 Linden Drive, Singapore 288683, 
+Mr Wen Di,
+wen_di@nygh.edu.sg,
+65067264
 
-Nanyang Girls High School, Mr Wen Di, 2 Linden Drive, Singapore 288683, wen_di@nygh.edu.sg
+Nanyang Junior College, 
+128 Serangoon, Ave 3, Singapore 556111,
+Mr Erik Er Soo Fah,
+er_soo_fah_erik@moe.edu.sg,
+6380 5145
 
-Nanyang Junior College, Mrs Chan-Lai Siew Phing, 128 Serangoon, Ave 3, Singapore 556111, lai_siew_phing@moe.edu.sg, 6380 5145
+Nanyang Polytechnic (Library), 
+180 Ang Mo Kio, Avenue 8, Singapore 569830, 
+Mr Ong Cheng Leong,
+Ong_Cheng_Leong@nyp.edu.sg,
+6550 0175
 
-Nanyang Polytechnic (Library), Mr Ong Cheng Leong, 180 Ang Mo Kio, Avenue 8, Singapore 569830, Ong_Cheng_Leong@nyp.edu.sg, 6550 0175
+Nanyang Technological University,
+Biblographic Services Division, Wee Nam Library, 
+50 Nanyang Avenue, Singapore 639798,
+Ms Ng Chay Tuan,
+CTN@ntu.edu.sg,
+6790 4690
 
-Nanyang Technological University, Ms Ng Chay Tuan, Biblographic Services Division, Wee Nam Library, 50 Nanyang Avenue, Singapore 639798, CTNG@ntu.edu.sg, 6790 4690
+National Archives of Singapore, 
+1 Canning Rise, Singapore 179868, 
+Ms Irene Lim,
+Irene_LL_LIM@nlb.gov.sg,
+6718 3274
 
-National Archives of Singapore, Ms Irene Lim, 1 Canning Rise, Singapore 179868, Irene_LL_LIM@nlb.gov.sg, 6718 3274
-
-National Gallery Singapore, Ms Michelle Tay, 1 St. Andrew's Road, Singapore 178957, michelle.tay@nationalgallery.sg, 6909446
+National Gallery Singapore, 
+1 St. Andrew's Road, Singapore 178957, 
+Ms Michelle Tay,
+michelle.tay@nationalgallery.sg,
+6909446
 
 
 National Library Board
 
 
-National Parks Board (Library of Botany), Dr Nura Abdul Karim, 1 Cluny Road, Singapore Botanic Gardens, Singapore 259569, NURA_ABDUL_KARIM@nparks.gov.sg, 64719866
+National Parks Board (Library of Botany), 
+1 Cluny Road, Singapore Botanic Gardens, 
+Singapore 259569,
+Dr Nura Abdul Karim,
+NURA_ABDUL_KARIM@nparks.gov.sg,
+64719866
 
-National University of Singapore, Ms Ong Hong Kiat, Central Library, 12 Kent Ridge Crescent, Singapore 119275, clbonghk@nus.edu.sg, 6516 2037
+National University of Singapore, 
+Central Library, 12 Kent Ridge Crescent, 
+Singapore 119275, 
+Ms Ong Hong Kiat,
+clbonghk@nus.edu.sg,
+6516 2037
 
-Ngee Ann Polytechnic (Library), Ms Lim Li Hoon, Lien Ying Chow Library, 535 Clementi Road, Singapore 599489, LIM_Li_Hoon@np.edu.sg, 6460 7512
+Ngee Ann Polytechnic (Lien Ying Chow Library), 
+535 Clementi Road, Singapore 599489, 
+Ms Sharon Tan (Librarian),
+Sharon_TAN@np.edu.sg, 
+6460 7059
 
-National Institute of Education, Ms Wan-Yeoh Seok Kwan, NIE Library, 1 Nanyang Walk, Singapore 637616, seokkwan.yeoh@nie.edu.sg, 6790 3633 
+National Institute of Education (NIE Library),
+1 Nanyang Walk, Singapore 637616, 
+Ms Wah-Yeoh Seok Kwan,
+seokkwan.yeoh@nie.edu.sg, 
+6790 3633
 
-Parliament House, Ms Lim Puay Ling, 1 Parliament Place, Singapore 178880, lim_puay_ling@parl.gov.sg, 6332 5534
+Parliament House, 
+1 Parliament Place, Singapore 178880,
+Ms Lim Puay Ling,
+lim_puay_ling@parl.gov.sg, 
+6332 5534
 
-Raffles Girls School (Secondary), Ms Florence Tay, 2 Braddell Rise, Singapore 318871, florence.tay@rafflesgirlssch.edu.sg, 6838 7831
+Raffles Girls Seondary School,
+2 Braddell Rise, Singapore 318871,
+Ms Florence Tay,
+florence.tay@rafflesgirlssch.edu.sg,
+6838 7831
 
-Raffles Institution, Mr Frank Seah Eng Kiat, One Raffles Institution Lane, Singapore 575954, engkiat.seah@ri.edu.sg, 6419 9888
+Raffles Institution,
+One Raffles Institution Lane, Singapore 575954,
+Mr Frank Seah Eng Kiat (Library Manager),
+engkiat.seah@ri.edu.sg, 
+6419 9896
 
-Republic Polytechnic, Mr Balambikai (Bala), 9 Woodlands Avenue 9, Singapore 738984, help-library@rp.edu.sg, 6697 1212
+Republic Polytechnic (Library), 
+9 Woodlands Avenue 9, Singapore 738984, 
+Mr Balambikai (Bala),
+help-library@rp.edu.sg, 
+6697 1212
 
-Singapore Chinese Girls School, Ms Wong Wai Mun, 190 Dunearn Rd, Singapore 309437, wong_wai_mun_a@moe.edu.sg
+Singapore Civil Defence Force,
+101 Jalan Bahar, Civil Defence Academy Complex,
+SSO Professional & Curriculum Development,
+Training & Professional Development Department,
+Singapore 649734,
+Major Nurhamizah Anwar, 
+6848 3511
 
-Singapore Civil Defence Force, Major Revathi Veerasamy, Civil Defence Academy Resource Library, CDA Complex, 91 Jalan Bahar Singapore 649735, scdf_cda_library@scdf.gov.sg, 6794 5606
+Singapore History Museum,
+93 Stamford Road, Singapore 178897, 
+Ms Tan Chor Koon,
+Tan_Chor_Koon@nhb.gov.sg,
+6332 3570
 
-Singapore History Museum, Ms Tan Chor Koon, 93 Stamford Road, Singapore 178897, Tan_Chor_Koon@nhb.gov.sg, 6332 3570
+Singapore Institute of Management Group Limited,
+461 Clementi Road, Singapore 599491,
+Ms Linda Nah,
+lindanah@sim.edu.sg, 
+6248 9593
 
-Ms Linda Nah, 461 Clementi Road, Singapore 599491, lindanah@sim.edu.sg, 6248 9593
+Singapore Institute of Technology, 
+10 Dover Drive, Singapore 138683, 
+Ms Kimmy Xing,
+Kimmy.Xing@Singaporetech.edu.sg,
+6592 1901
 
-Singapore Institute of Technology, Ms Kimmy Xing, 10 Dover Drive, Singapore 138683, Kimmy.Xing@Singaporetech.edu.sg, 6592 1901
+Singapore Management University, 
+Li Ka Shing Library, 70 Stamford Road, 
+Singapore 178901, 
+Ms Veronica Wang,
+library@smu.edu.sg,
+6828 0355
 
-Singapore Management University, Ms Veronica Wang, Li Ka Shing Library, 70 Stamford Road, Singapore 178901, library@smu.edu.sg, 6828 0355
+Singapore Polytechnic (Library), 
+500 Dover Road, Singapore 139651,
+Ms Lem Lei Kin,
+library@sp.edu.sg, 
+6775 1133
 
-Singapore Polytechnic (Library), Ms Lem Lei Kin, 500 Dover Road, Singapore 139651, library@sp.edu.sg, 6775 1133
-
-Singapore University of Social Sciences, Ms Vivien Tan, 463 Clementi Road, Singapore 599494, vivientanhl@suss.edu.sg, 62480450
+Singapore University of Social Sciences, 
+463 Clementi Road, Singapore 599494, 
+Ms Vivien Tan,
+vivientanhl@suss.edu.sg, 
+62480450
  
-Singapore University of Technology and Design, Ms Judy Teo, 8 Somapah Rd, Building 1, Singapore 487372, judy_teo@sutd.edu.sg, 6303 6600
+Singapore University of Technology and Design, 
+8 Somapah Rd, Building 1, Singapore 487372, 
+Ms Judy Teo,
+judy_teo@sutd.edu.sg,
+6303 6600
 
-Temasek Polytechnic (Library), Ms Ong Peik Keng, 21 Tampines Avenue 1, Singapore 529757, peikkeng@tp.edu.sg, 6788 2000
+Temasek Polytechnic (Library),
+21 Tampines Avenue 1, Singapore 529757, 
+Ms Ong Peik Keng,
+peikkeng@tp.edu.sg, 
+6788 2000
