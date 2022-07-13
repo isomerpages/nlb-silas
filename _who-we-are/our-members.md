@@ -78,12 +78,6 @@ Mr Wen Di,
 wen_di@nygh.edu.sg,
 65067264
 
-Nanyang Junior College, 
-128 Serangoon, Ave 3, Singapore 556111,
-Mr Erik Er Soo Fah,
-er_soo_fah_erik@moe.edu.sg,
-6380 5145
-
 Nanyang Polytechnic (Library), 
 180 Ang Mo Kio, Avenue 8, Singapore 569830, 
 Mr Ong Cheng Leong,
@@ -105,9 +99,9 @@ Irene_LL_LIM@nlb.gov.sg,
 
 National Gallery Singapore, 
 1 St. Andrew's Road, Singapore 178957, 
-Ms Michelle Tay,
-michelle.tay@nationalgallery.sg,
-6909446
+Ms Szan Tan (Head, Library & Archives)
+szan.tan@nationalgallery.sg,
+6271 7000 (HQ)
 
 
 National Library Board
@@ -147,8 +141,8 @@ lim_puay_ling@parl.gov.sg,
 
 Raffles Girls Seondary School,
 2 Braddell Rise, Singapore 318871,
-Ms Florence Tay,
-florence.tay@rafflesgirlssch.edu.sg,
+Ms Ooi Poh Im (Library Manager),
+pohim.ooi@rafflesgirlssch.edu.sg,
 6838 7831
 
 Raffles Institution,
@@ -163,6 +157,13 @@ Mr Balambikai (Bala),
 help-library@rp.edu.sg, 
 6697 1212
 
+School of the Arts, Singapore,
+1 Zubir Said Drive (Admin Office), #05-01, 
+Singapore 227968
+Ms Joanna Yu (Senior Manager, Library & Info Services),
+joanna.yu@sota.edu.sg,
+6342 5872
+
 Singapore Civil Defence Force,
 101 Jalan Bahar, Civil Defence Academy Complex,
 SSO Professional & Curriculum Development,
@@ -173,8 +174,8 @@ Major Nurhamizah Anwar,
 
 Singapore History Museum,
 93 Stamford Road, Singapore 178897, 
-Ms Tan Chor Koon,
-Tan_Chor_Koon@nhb.gov.sg,
+Ms Kylene Wu (Assistant Manager, Resource Centre),
+Kylene_WU@nhb.gov.sg,
 6332 3570
 
 Singapore Institute of Management Group Limited,
@@ -204,8 +205,8 @@ library@sp.edu.sg,
 
 Singapore University of Social Sciences, 
 463 Clementi Road, Singapore 599494, 
-Ms Vivien Tan,
-vivientanhl@suss.edu.sg, 
+Ms Manimekalai Thirumala
+manimekalai@suss.edu.sg, 
 62480450
  
 Singapore University of Technology and Design, 
