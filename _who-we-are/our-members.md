@@ -141,9 +141,8 @@ lim_puay_ling@parl.gov.sg,
 
 Raffles Girls Seondary School,
 2 Braddell Rise, Singapore 318871,
-Ms Ooi Poh Im (Library Manager),
-pohim.ooi@rafflesgirlssch.edu.sg,
-6838 7831
+Ms Masturah Abdul Aziz (Library Manager), masturah.aziz@rafflesgirlssch.edu.sg,
+6970 6495
 
 Raffles Institution,
 One Raffles Institution Lane, Singapore 575954,
