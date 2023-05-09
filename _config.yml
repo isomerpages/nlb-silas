@@ -44,8 +44,8 @@ paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 description: test test
-staging: https://nlb-silas-staging.netlify.com/
-prod: https://nlb-silas-prod.netlify.com/
+staging: https://staging.do2fruon0xbyq.amplifyapp.com/
+prod: https://master.do2fruon0xbyq.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
