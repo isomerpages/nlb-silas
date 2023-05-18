@@ -2,8 +2,7 @@
 title: Our Members
 permalink: /who-we-are/our-members/
 ---
-There are currently 36 library members of SILAS. They are from higher learning institutions, ministries and government agencies, schools and junior colleges.
-
+There are currently 33 library members of SILAS. They are from higher learning institutions, ministries and government agencies, schools and junior colleges.
 
 
 Anglo-Chinese Independent School,
@@ -23,12 +22,6 @@ AWWA,
 Ms Susan Tan,
 susan_tan@awwa.org.sg, 
 65115280
-
-Civil Service College, 
-31 North Buona Vista Road, Singapore 275983, 
-Ms Zalina Khalid,
-Zalina_KHALID@csccollege.gov.sg, 
-6874 1825
 
 Defence Science & Technology Agency, 1 Depot Road, Defence Tech Tower A, #03-01J, Singapore 109676,
 Ms Stephanie Seow,
@@ -85,10 +78,10 @@ Ong_Cheng_Leong@nyp.edu.sg,
 6550 0175
 
 Nanyang Technological University,
-Biblographic Services Division, Wee Nam Library, 
+Biblographic Services Division, Lee Wee Nam Library, 
 50 Nanyang Avenue, Singapore 639798,
-Ms Ng Chay Tuan,
-CTN@ntu.edu.sg,
+Mr Tan Heok Seng,
+heokseng@ntu.edu.sg,
 6790 4690
 
 National Archives of Singapore, 
@@ -133,7 +126,7 @@ Ms Wah-Yeoh Seok Kwan,
 seokkwan.yeoh@nie.edu.sg, 
 6790 3633
 
-Parliament House, 
+Parliament House (Library), 
 1 Parliament Place, Singapore 178880,
 Ms Lim Puay Ling,
 lim_puay_ling@parl.gov.sg, 
@@ -171,17 +164,11 @@ Singapore 649734,
 Major Nurhamizah Anwar, 
 6848 3511
 
-Singapore History Museum,
+National Museum of Singapore,
 93 Stamford Road, Singapore 178897, 
 Ms Kylene Wu (Assistant Manager, Resource Centre),
 Kylene_WU@nhb.gov.sg,
 6332 3570
-
-Singapore Institute of Management Group Limited,
-461 Clementi Road, Singapore 599491,
-Ms Linda Nah,
-lindanah@sim.edu.sg, 
-6248 9593
 
 Singapore Institute of Technology, 
 10 Dover Drive, Singapore 138683, 
@@ -210,8 +197,8 @@ manimekalai@suss.edu.sg,
  
 Singapore University of Technology and Design, 
 8 Somapah Rd, Building 1, Singapore 487372, 
-Ms Judy Teo,
-judy_teo@sutd.edu.sg,
+Ms Marianah Abdullah,
+marianah_abdullah@sutd.edu.sg,
 6303 6600
 
 Temasek Polytechnic (Library),
