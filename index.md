@@ -4,7 +4,7 @@ title: National Library Board
 description: test test
 image: /images/isomer-logo.svg
 permalink: /
-notification: null
+notification: ""
 sections:
   - hero:
       title: SILAS
