@@ -1,0 +1,15 @@
+collections:
+  document-library:
+    output: true
+    order:
+      - document-library.md
+      - category/.keep
+      - category/silas-documents.md
+      - category/bibliographic-control-general-cataloguing.md
+      - category/bibliographic-control-cataloguing-particular-material.md
+      - category/bibliographic-control-resource-directories.md
+      - category/authority-control.md
+      - category/general.md
+      - category/oclc-resources.md
+      - category/rda-resources.md
+      - category/resources-in-new-media-videos-podcasts-presentation-slides.md
