@@ -1,8 +1,9 @@
 ---
 title: Our Members
 permalink: /who-we-are/our-members/
+variant: markdown
 ---
-There are currently 33 library members of SILAS. They are from higher learning institutions, ministries and government agencies, schools and junior colleges.
+There are currently 30 library members of SILAS. They are from higher learning institutions, ministries and government agencies, schools and junior colleges.
 
 
 Anglo-Chinese Independent School,
@@ -57,13 +58,6 @@ KK Women’s & Children’s Hospital,
 Ms Peggy Fong,
 library@kkh.com.sg,
 6394 1598
-
-Monetary Authority of Singapore, 
-10 Shenton Way, #28-00, 
-MAS Building Singapore 079117, 
-Ms Soh Mai Choo,
-mcsoh@mas.gov.sg,
-6229 9323
 
 Nanyang Girls High School, 
 2 Linden Drive, Singapore 288683, 
@@ -145,24 +139,9 @@ engkiat.seah@ri.edu.sg,
 
 Republic Polytechnic (Library), 
 9 Woodlands Avenue 9, Singapore 738984, 
-Mr Balambikai (Bala),
+Ms Tan Ai Li (Library Manager),
 help-library@rp.edu.sg, 
 6697 1212
-
-School of the Arts, Singapore,
-1 Zubir Said Drive (Admin Office), #05-01, 
-Singapore 227968
-Ms Joanna Yu (Senior Manager, Library & Info Services),
-joanna.yu@sota.edu.sg,
-6342 5872
-
-Singapore Civil Defence Force,
-101 Jalan Bahar, Civil Defence Academy Complex,
-SSO Professional & Curriculum Development,
-Training & Professional Development Department,
-Singapore 649734,
-Major Nurhamizah Anwar, 
-6848 3511
 
 National Museum of Singapore,
 93 Stamford Road, Singapore 178897, 
