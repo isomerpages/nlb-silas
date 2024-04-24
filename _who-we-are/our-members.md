@@ -3,7 +3,7 @@ title: Our Members
 permalink: /who-we-are/our-members/
 variant: markdown
 ---
-There are currently 30 library members of SILAS. They are from higher learning institutions, ministries and government agencies, schools and junior colleges.
+There are currently 31 library members of SILAS. They are from higher learning institutions, ministries and government agencies, schools and junior colleges.
 
 
 Anglo-Chinese Independent School,
@@ -29,11 +29,18 @@ Ms Stephanie Seow,
 irc@dsta.gov.sg, 
 6373 4989
 
+Dulwich College Singapore,
+71 Bukit Batok West Avenue 8,
+Singapore 658966,
+Ms Jane Hayes (Teacher Librarian),
+jane.hayes@dulwich.org,
+6890 1000 (main line)
+
 ISEAS - Yusof Ishak Institute,
 30 Heng Mui Keng Terrace, Singapore 119614, 
 Ms Veronica Boudville,
 veronica_boudville@iseas.edu.sg,
-67780955
+6778 0955
 
 Institute of Technical Education, 
 2 Ang Mo Kio Drive, Singapore 567720,
@@ -63,7 +70,7 @@ Nanyang Girls High School,
 2 Linden Drive, Singapore 288683, 
 Mr Wen Di,
 wen_di@nygh.edu.sg,
-65067264
+6506 7264
 
 Nanyang Polytechnic (Library), 
 180 Ang Mo Kio, Avenue 8, Singapore 569830, 
@@ -82,7 +89,7 @@ National Archives of Singapore,
 1 Canning Rise, Singapore 179868, 
 Ms Irene Lim,
 Irene_LL_LIM@nlb.gov.sg,
-6718 3274
+6992 3767
 
 National Gallery Singapore, 
 1 St. Andrew's Road, Singapore 178957, 
@@ -90,16 +97,26 @@ Ms Szan Tan (Head, Library & Archives)
 szan.tan@nationalgallery.sg,
 6271 7000 (HQ)
 
+National Institute of Education (NIE Library),
+1 Nanyang Walk, Singapore 637616, 
+Ms Wah-Yeoh Seok Kwan,
+seokkwan.yeoh@nie.edu.sg, 
+6790 3633
 
 National Library Board
 
+National Museum of Singapore,
+93 Stamford Road, Singapore 178897, 
+Ms Kylene Wu (Assistant Manager, Resource Centre),
+Kylene_WU@nhb.gov.sg,
+6332 3570
 
 National Parks Board (Library of Botany), 
 1 Cluny Road, Singapore Botanic Gardens, 
 Singapore 259569,
 Dr Nura Abdul Karim,
 NURA_ABDUL_KARIM@nparks.gov.sg,
-64719866
+6471 9866
 
 National University of Singapore, 
 Central Library, 12 Kent Ridge Crescent, 
@@ -113,12 +130,6 @@ Ngee Ann Polytechnic (Lien Ying Chow Library),
 Ms Sharon Tan (Librarian),
 Sharon_TAN@np.edu.sg, 
 6460 7059
-
-National Institute of Education (NIE Library),
-1 Nanyang Walk, Singapore 637616, 
-Ms Wah-Yeoh Seok Kwan,
-seokkwan.yeoh@nie.edu.sg, 
-6790 3633
 
 Parliament House (Library), 
 1 Parliament Place, Singapore 178880,
@@ -142,12 +153,6 @@ Republic Polytechnic (Library),
 Ms Tan Ai Li (Library Manager),
 help-library@rp.edu.sg, 
 6697 1212
-
-National Museum of Singapore,
-93 Stamford Road, Singapore 178897, 
-Ms Kylene Wu (Assistant Manager, Resource Centre),
-Kylene_WU@nhb.gov.sg,
-6332 3570
 
 Singapore Institute of Technology, 
 10 Dover Drive, Singapore 138683, 
