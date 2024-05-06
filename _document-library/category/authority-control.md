@@ -19,8 +19,7 @@ variant: markdown
 	- {:target="_blank"} – List of online subject thesauri.
 - GENRE/FORM terms
 	- LCGFT for Moving Image Material
-	- Library of Congress is constantly updating the genre/form terms for moving image material. Cataloguers of AV items may want to peruse these updates available from LC. An example is provided at {:target="_blank"}
-
+	
 <hr>
 
 #### **Authority Control Tools**
@@ -28,7 +27,7 @@ variant: markdown
 - Authority Tutorial
 	- The MARC Authority training tutorial provides a means to study and practice the creation of authority records incorporating MARC coding. These standards are utilized by automated library systems that support authority control.
 - Become an Authority on Authorities
-	- {:target="_blank"}
+	- (https://www.powershow.com/view/45d6d1-MWVjM/The_Adventures_of_Tom_Sawyer_powerpoint_ppt_presentation)
 	- This PowerPoint slides cover the outline of what is an authority record; basic of MARC; MARC component of authority records in OCLC and LC authority files; creating of cross reference and FQA.
 - Functional Requirements for Authority Data
 	- {:target="_blank"}
