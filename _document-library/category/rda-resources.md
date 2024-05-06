@@ -68,7 +68,7 @@ variant: markdown
 - [Cataloger Scenarios](http://www.dublincore.org/dcmirdataskgroup/Scenarios){:target="_blank"}
 - [Out of the Secret Garden: The RDA/DC Initiative](http://www.techsource.ala.org/blog/2007/06/out-of-the-secret-garden-the-rdadc-initiative.html){:target="_blank"}
 - [DCMI/RDA Task Group Wiki](https://www.dublincore.org/groups/libraries/dcmirdataskgroup/){:target="_blank"}
-- [RDA to MODS Mapping](http://rdamodsmapping.xls/){:target="_blank"}
+- [RDA to MODS Mapping](https://listserv.loc.gov/cgi-bin/wa?A2=ind0903&amp;L=MODS&amp;P=19816){:target="_blank"}
 - [MARC Content Designation Utilization (MCDU) Project](http://www.mcdu.unt.edu/){:target="_blank"}
 - [MARC 21 Format 2009 Changes to Accommodate RDA](http://www.loc.gov/marc/formatchanges-RDA.html){:target="_blank"}
 - [RDA in MARC](http://www.loc.gov/marc/RDAinMARC29.html){:target="_blank"}
