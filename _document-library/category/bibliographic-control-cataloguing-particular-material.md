@@ -66,7 +66,6 @@ variant: markdown
 	- {:target="_blank"}
 - **Library of Congress Non-Latin Script Data in Name Authority Records**: General Information – This provides the links to the cataloguing documentation to support non-Latin script data in name authority. The links for Announcement and FQA on non-Latin characters in name authority records are provided.
 	- {:target="_blank"}
-- **National University of Singapore Chinese Authors – This website contains the list of Chinese overseas authors in Pinyin compiled by National University of Singapore
 	
 - **OCLC CJK Users Group** – The OCLC CJK Users Group was officially established at an organizing meeting held on April 10, 1991 in New Orleans, Louisiana. The Chinese, the Japanese and the Korean are in the Group’s Executive Board. The links on documentations on Meetings/Minutes and information on Internet Resources can be found on this web.
 	- {:target="_blank"}
