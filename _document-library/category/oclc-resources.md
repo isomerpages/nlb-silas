@@ -15,4 +15,4 @@ variant: markdown
 - [DDC22](http://www.oclc.org/dewey/versions/ddc22print/){:target="_blank"}: an introduction, a glossary and a list of new features.
 	- [Webinar: A preview of DDC23](http://ddc.typepad.com/025431/2011/03/ddc-23-webinar.html){:target="_blank"}: a preview of the changes in the new version of DDC
 - [OCLC Technical Bulletins][https://help.oclc.org/WorldCat/Cataloging_documentation/Technical_Bulletins]){:target="_blank"}
-- [OCLC FAQ](http://www.oclc.org/support/questions/default.htm){:target="_blank"}
+- [OCLC FAQ](https://help.oclc.org/)({:target="_blank"}
