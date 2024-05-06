@@ -6,7 +6,7 @@ variant: markdown
 ---
 #### **AV materials**
 - **Library of Congress Moving Image Genre/Form Project** – This is about the Moving Image Genre/Form project. It covers Motion Picture, Broadcasting, &amp; Sound recording.
-	- {:target="_blank"}(https://www.loc.gov/catdir/cpso/h1913.pdf)
+	- (https://www.loc.gov/catdir/cpso/h1913.pdf)
 
 #### **Electronic Resources**
 - **Cataloging Electronic Resources**: OCLC-MARC Coding Guidelines – by Jay Weitz, Senior Consulting Database Specialist, OCLC WorldCat Quality Management Division, Revised 2006 July 11.
