@@ -152,7 +152,7 @@ excellence.</p>
 website, you can find the documentation on Catalogue and Metadata services.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>{:target="_blank"}<a href="https://library.princeton.edu/cams/ld4p" rel="noopener noreferrer nofollow" target="_blank">https://library.princeton.edu/cams/ld4p</a>
+<p><a href="https://library.princeton.edu/cams/ld4p" rel="noopener noreferrer nofollow" target="_blank">https://library.princeton.edu/cams/ld4p</a>
 </p>
 </li>
 </ul>
@@ -166,10 +166,8 @@ a term to use in your description, improving the description of (and access
 to) your digital and hard copy materials.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>{:target="_blank"}</p>
-</li>
-<li>
-<p><a href="https://help.oclc.org/Metadata_Services/CONTENTdm/Project_Client/Enter_metadata/Work_with_a_controlled_vocabulary" rel="noopener noreferrer nofollow" target="_blank">https://help.oclc.org/Metadata_Services</a>{:target="_blank"}</p>
+<p><a href="https://help.oclc.org/Metadata_Services/CONTENTdm/Project_Client/Enter_metadata/Work_with_a_controlled_vocabulary" rel="noopener noreferrer nofollow" target="_blank">https://help.oclc.org/Metadata_Services</a>
+</p>
 </li>
 </ul>
 </li>
@@ -273,7 +271,8 @@ information.</p>
 <p><strong>NLM Classification</strong> – contains outlines of the NLM Classification.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>{:target="_blank"}</p>
+<p><a href="https://classification.nlm.nih.gov/" rel="noopener noreferrer nofollow" target="_blank">https://classification.nlm.nih.gov/</a>
+</p>
 </li>
 </ul>
 </li>
