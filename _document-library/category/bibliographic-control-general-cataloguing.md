@@ -137,23 +137,11 @@ cataloguing; publications, reports and subject headings.</p>
 </ul>
 </li>
 <li>
-<p><strong>Penn State Libraries Cataloging and Metadata Services</strong> –
-This website lists all the bibliographic processing cataloguing rules in
-order to process materials efficiently and maintain the standards of cataloging
-excellence.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>{:target="_blank"}</p>
-</li>
-</ul>
-</li>
-<li>
 <p><strong>Princeton University Cataloging Documentation</strong> – On this
 website, you can find the documentation on Catalogue and Metadata services.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://library.princeton.edu/cams/ld4p" rel="noopener noreferrer nofollow" target="_blank">https://library.princeton.edu/cams/ld4p</a>
-</p>
+<p><a href="https://library.princeton.edu/cams/ld4p" rel="noopener noreferrer nofollow" target="_blank">https://library.princeton.edu/cams/ld4p </a>{:target="_blank"}</p>
 </li>
 </ul>
 </li>
