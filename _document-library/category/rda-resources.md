@@ -2,8 +2,8 @@
 title: RDA Resources
 permalink: /document-library/rda-resources/
 third_nav_title: Category
+variant: markdown
 ---
-
 #### **Readings**
 - [Resource Description and Access (RDA): Cataloging Rules for the 20th Century (Karen Coyle and Diane Hillmann)](http://dlib.org/dlib/january07/coyle/01coyle.html){:target="_blank"}
 - [Changing to RDA (Chris Oliver)](http://www.rda-jsc.org/docs/felicitervol53no7p250-253.pdf){:target="_blank"}
@@ -24,7 +24,7 @@ third_nav_title: Category
 - [Who Needs MARC? (Lukas Koster)](http://commonplace.net/2009/05/who-needs-marc/){:target="_blank"}
 - [Can Bibliographic Data be Put Directly Onto the Semantic Web? (Martha Yee)](http://escholarship.org/uc/item/91b1830k){:target="_blank"}
 
-<hr/>
+<hr>
 
 #### **Blogs and Discusion Lists**
 - [Coyle’s InFormation (Karen Coyle’s Blog)](http://kcoyle.blogspot.com/){:target="_blank"}
@@ -36,7 +36,7 @@ third_nav_title: Category
 - [NGC4LIB List](https://listserv.nd.edu/cgi-bin/wa?A0=NGC4LIB){:target="_blank"}
 - [Cooperative Cataloging Rules Blog](http://coopcatwiki.blogspot.com/){:target="_blank"}
 
-<hr/>
+<hr>
 
 #### **Other Resources**
 - [RDA Website](http://www.rdaonline.org/){:target="_blank"}
@@ -48,12 +48,12 @@ third_nav_title: Category
 - [Why Do We Need RDA?](http://needrda.pdf/){:target="_blank"}
 - [RDA and OCLC](http://www.oclc.org/rda/default.htm){:target="_blank"}
 - [Technical Bulletin 258: OCLC-MARC Format Update 2010 including RDA Changes](http://www.oclc.org/support/documentation/worldcat/tb/258/default.htm){:target="_blank"}
-- [Joint Steering Committee for Development of RDA: RDA FAQ](http://www.rda-jsc.org/rdafaq.html){:target="_blank"}
+- [Joint Steering Committee for Development of RDA: RDA FAQ](http://www.rda-rsc.org/content/rda_faq){:target="_blank"}
 - [Issues Deferred Until After the First Release of RDA](http://www.rda-jsc.org/docs/5sec7rev.pdf){:target="_blank"}
 - [Examples of Differences Between AACR2 and RDA (Barbara Tillett)](http://www.loc.gov/acq/conser/rda_examples-rev04-15-2009.pdf){:target="_blank"}
 - [Examples for RDA compared to AACR2 (Barbara Tillett)](http://rda_examples.doc/){:target="_blank"}
 - [Changes to AACR2 Instructions (Joint Steering Committee)](http://www.rda-jsc.org/docs/5sec7rev.pdf){:target="_blank"}
-- [RDA Features & Functionality (Presentation by Chris Oliver)](http://www.rda-jsc.org/docs/iflasatellite-20080808-demo.pdf){:target="_blank"}
+- [RDA Features &amp; Functionality (Presentation by Chris Oliver)](http://www.rda-jsc.org/docs/iflasatellite-20080808-demo.pdf){:target="_blank"}
 - [Facing Forward: The Challenges Facing Cataloging and Catalogers (Diane Hillmann)](http://ecommons.library.cornell.edu/handle/1813/11536){:target="_blank"}
 - [Resource Description and Access Happy Fun Time Companion](http://sites.google.com/site/codlinandshort/){:target="_blank"}
 - [Sharing Standards for Bibliographic Data Worldwide: an Overview of Changes in Cataloguing Practices (Barbara Tillett)](http://www.apla2009.ca/index.php/program/details/20-Barbara%20Tillett){:target="_blank"}
@@ -74,7 +74,7 @@ third_nav_title: Category
 - [RDA in MARC](http://www.loc.gov/marc/RDAinMARC29.html){:target="_blank"}
 - [PCC and RDA FAQ](http://www.loc.gov/catdir/pcc/PCC-RDA-FAQ.html){:target="_blank"}
 
-<hr/>
+<hr>
 
 #### **FRBR and FRAD**
 - [FRBR Blog](http://www.frbr.org/){:target="_blank"}
@@ -90,10 +90,10 @@ third_nav_title: Category
 - [Bringing FRBR Down to Earth (Rob Styles)](http://dynamicorange.com/2009/11/11/bringing-frbr-down-to-earth/){:target="_blank"}
 - [More FRBR and FRAD Links (Celeripedean)](http://celeripedean.wordpress.com/2009/03/12/code4lib-and-frbr/){:target="_blank"}
 - [FRBRoo](http://cidoc.ics.forth.gr/frbr_drafts.html){:target="_blank"}
-- [Bram Stoker’s Dracula in FRBR Terms](http://www.youtube.com/watch?v=LN0vKCFsXPE&feature=player_embedded){:target="_blank"}
+- [Bram Stoker’s Dracula in FRBR Terms](http://www.youtube.com/watch?v=LN0vKCFsXPE&amp;feature=player_embedded){:target="_blank"}
 - [Using MARC21 with FRBR (Sally H. McCallum, Library of Congress)](http://www.loc.gov/marc/marbi/2005/2005-report02.pdf){:target="_blank"}
 
-<hr/>
+<hr>
 
 #### **RDA and MARC**
 - [Content Type (MARC 336)](http://www.loc.gov/standards/valuelist/rdacontent.html){:target="_blank"}
