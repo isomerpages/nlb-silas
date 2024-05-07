@@ -49,8 +49,6 @@ variant: markdown
 	- {:target="_blank"}
 - **Word2Word Languag Resources** – This is a commercial site consists links that are providing free language translation, however there is a limitations of automatic translation. Beware that the systems do not provide a 100% accurate translation of your text.
 	- {:target="_blank"}
-- **Free Translation** – FreeTranslation.com is owned by SDL, a leading globalization company. With in excess of 2 million visitors per week, this site allows users to obtain free translations of both text and web pages. It also provides access to a range of SDL’s core translation and localization services.
-	- {:target="_blank"}
 - **Online Indonesian English Translator** – Established in 1999, this is a one stop solution for translation services in Singapore.
 	- {:target="_blank"}
 - **The Researching Librarian** – This site lists national library catalogues alphabetically by country. It aims to give all the information necessary to connect to the catalogue. The University of Queensland Library maintains this site.
