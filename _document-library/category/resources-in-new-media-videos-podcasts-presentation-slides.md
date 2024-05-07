@@ -2,8 +2,8 @@
 title: Resources in New Media (Videos, Podcasts, Presentation Slides)
 permalink: /document-library/resources-in-new-media/
 third_nav_title: Category
+variant: markdown
 ---
-
 #### **Videos**
 **RDA Series Webinars by [ALCTS Continuing Education](http://www.youtube.com/user/alctsce){:target="_blank"}**
 
@@ -31,7 +31,3 @@ third_nav_title: Category
 2. Introduction to RDA; Identifying Manifestations and Items: [part 1](http://www.loc.gov/catworkshop/RDA%20training%20materials/LC%20RDA%20Training/MP4-RDA-Module-1/Module-1-Part-1.mp4){:target="_blank"}, [part 2](http://www.loc.gov/catworkshop/RDA%20training%20materials/LC%20RDA%20Training/MP4-RDA-Module-1/Module-1-Part-2.mp4){:target="_blank"}
 3. Describing Carriers and Identifying Works: [part 1](http://www.loc.gov/catworkshop/RDA%20training%20materials/LC%20RDA%20Training/MP4-RDA-Module-2/Module-2-Part-1.mp4){:target="_blank"}, [part 2](http://www.loc.gov/catworkshop/RDA%20training%20materials/LC%20RDA%20Training/MP4-RDA-Module-2/Module-2-Part-2.mp4){:target="_blank"}.
 4. [Identifying Expressions and Describing Content](http://www.loc.gov/catworkshop/RDA%20training%20materials/LC%20RDA%20Training/MP4-RDA%20Module%203/RDA%20Module%203-Identifying%20Expressions%20and%20Describing%20Content.mp4){:target="_blank"}
-
-**RDA in NACO Training.**
-
-Please go to the [site](http://www.loc.gov/catworkshop/courses/rda_naco/course%20table.html){:target="_blank"} for videos and presentation slides and related documents.
