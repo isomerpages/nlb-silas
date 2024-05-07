@@ -154,8 +154,7 @@ a term to use in your description, improving the description of (and access
 to) your digital and hard copy materials.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://help.oclc.org/Metadata_Services/CONTENTdm/Project_Client/Enter_metadata/Work_with_a_controlled_vocabulary" rel="noopener noreferrer nofollow" target="_blank">https://help.oclc.org/Metadata_Services</a>
-</p>
+<p><a href="https://help.oclc.org/Metadata_Services/CONTENTdm/Project_Client/Enter_metadata/Work_with_a_controlled_vocabulary" rel="noopener noreferrer nofollow" target="_blank">https://help.oclc.org/Metadata_Services </a>{:target="_blank"}</p>
 </li>
 </ul>
 </li>
