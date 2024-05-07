@@ -194,12 +194,7 @@ Records</p>
 <p><strong>RDA Steering Committee</strong> – Website of the RDA Steering Committee
 (RSC). Previously known as the JSC/RDA. it was responsible for maintaining
 the Anglo-American Cataloguing Rules, and is working continuously on the
-recently-released code, RDA (aka Resource Description and Access).</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>{:target="_blank"}</p>
-</li>
-</ul>
+recently-released code, RDA (aka Resource Description and Access). <a href="https://www.rdatoolkit.org/" rel="noopener noreferrer nofollow" target="_blank">https://www.rdatoolkit.org/ </a>{:target="_blank"}</p>
 </li>
 </ul>
 <hr>
