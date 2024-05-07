@@ -6,20 +6,15 @@ variant: markdown
 ---
 #### **Readings**
 - [Resource Description and Access (RDA): Cataloging Rules for the 20th Century (Karen Coyle and Diane Hillmann)](http://dlib.org/dlib/january07/coyle/01coyle.html){:target="_blank"}
-- [Changing to RDA (Chris Oliver)](http://www.rda-jsc.org/docs/felicitervol53no7p250-253.pdf){:target="_blank"}
-- [Resource Description and Access (RDA) and New Research Potentials (Shawne Miksa)](http://www.asis.org/Bulletin/Jun-09/JunJul09_Miksa.pdf%22){:target="_blank"}
 - [RDA: The Coming Cataloguing Debacle (Michael Gorman)](http://www.slc.bc.ca/rda1007.pdf){:target="_blank"}
 - [Will RDA be DOA? (Roy Tennant)](http://www.libraryjournal.com/article/CA6422278.html){:target="_blank"}
 - [Cataloguing Rules!: The Road to RDA (F. Tim Knight)](http://pi.library.yorku.ca/dspace/handle/10315/2550){:target="_blank"}
-- [Implementing RDA: Call for the Alpha Geeks of Library Metadata (Patrick Hogan)](http://www.alatechsource.org/blog/2009/07/implementing-rda-call-for-the-alpha-geeks-of-library-metadata.html){:target="_blank"}
-- [RDA and FRBR: An Update (Jenn Riley)](http://www.dlib.indiana.edu/~jenlrile/presentations/ilf2007/rdafrbr.pdf){:target="_blank"}
 - [Getting There (Diane Hillmann)](http://ecommons.library.cornell.edu/handle/1813/11620){:target="_blank"}
-- [RDA For Who? (Diane Hillmann)](http://dublincore.org/usage/meetings/2006/04/seattle/rda-review/RDA_for_who.htm){:target="_blank"}
+- [RDA For Who? (Diane Hillmann)](https://github.com/dcmi/usage/blob/master/minutes/2006/2006-04-29.ub-agenda-seattle.pdf){:target="_blank"}
 - [Distinguishing Content from Carrier: The RDA/ONIX Framework for Resource Categorization (Gordon Dunsire)](http://www.dlib.org/dlib/january07/dunsire/01dunsire.html){:target="_blank"}
 - [RDA Vocabularies: Process, Outcome, Use (Diane Hillman, Karen Coyle, Jon Phipps and Gordon Dunsire)](http://www.dlib.org/dlib/january10/hillmann/01hillmann.html){:target="_blank"}
-- [Focus on Library Metadata: RDA Vocabularies for a Twenty-First-Century Data Environment (Karen Coyle)](http://www.alatechsource.org/blog/2010/01/rda-vocabularies-for-a-twenty-first-century-data-environment.html){:target="_blank"}
 - [MARC Must Die (Roy Tennant)](http://www.libraryjournal.com/article/CA250046.html){:target="_blank"}
-- [The Future of MARC: R.I.P. or Let Her Rip? (Mary Finn)](http://scholar.lib.vt.edu/ejournals/VALib/v50_n1/finn.html){:target="_blank"}
+- [The Future of MARC: R.I.P. or Let Her Rip? (Mary Finn)](https://virginialibrariesjournal.org/20/volume/50/issue/1){:target="_blank"}
 - [Radiohead and the Death of MARC Cataloging](http://weblog.amillion.us/archives/470){:target="_blank"}
 - [Who Needs MARC? (Lukas Koster)](http://commonplace.net/2009/05/who-needs-marc/){:target="_blank"}
 - [Can Bibliographic Data be Put Directly Onto the Semantic Web? (Martha Yee)](http://escholarship.org/uc/item/91b1830k){:target="_blank"}
