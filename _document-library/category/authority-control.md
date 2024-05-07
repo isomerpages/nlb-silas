@@ -15,8 +15,6 @@ variant: markdown
 - Thesaurus for graphic materials
 	- {:target="_blank"}
 	- Sometimes used for indexing visual materials instead of LCSH (use source code subfield $2lctgm).
-- Thesauri
-	- {:target="_blank"} – List of online subject thesauri.
 - GENRE/FORM terms
 	- LCGFT for Moving Image Material
 	
@@ -35,9 +33,6 @@ variant: markdown
 - NACO (Program for Cooperative Cataloguing)
 	- {:target="_blank"}
 	- This is the official NACO Home Page. It comprises all the useful information relating to NACO and gaining access to NACO Participants Manual (3rd ed.), including NACO FAQs; series information for NACO participants; literary author numbers in NARs (053); links of interest; documentation, tools, rules, etc. Even LCRI’s Cataloger’s Desktop is acting up.
-- Web World of Authority Control
-	- {:target="_blank"}
-	- This is a bibliography listing that includes tools, thesauri, Library of Congress sites, articles, workshops, journals, ALA committees, listservs, libraries and vendors that deals with authority control. This list is an attempt to help Authority Control Librarians and other librarians to do authority work more efficiency.
 
 <hr>
 
