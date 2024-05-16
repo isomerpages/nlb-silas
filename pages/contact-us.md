@@ -15,11 +15,13 @@ contacts:
   - content:
       - phone: +65 6992 3475
       - email: Low_Eik_Sin@nlb.gov.sg
-      - other: Bibliographic Manager (Covering)
+      - other: Manager (Covering); [Please note that SILAS Secretariat does not handle
+          NLB legal deposits/donations/gift titles]
     title: Low Eik Sin
   - content:
       - phone: +65 6992 3498
       - email: Wong_Kim_Nguk@nlb.gov.sg
-      - other: Librarian (Membership account matters)
+      - other: Librarian (Membership Account matters & general SILAS enquiries)
     title: Kim Wong
+feedback: ""
 ---
