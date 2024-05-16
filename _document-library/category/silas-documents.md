@@ -2,10 +2,28 @@
 title: SILAS Documents
 permalink: /document-library/silas-documents/
 third_nav_title: Category
+variant: tiptap
 ---
-
-1. [Name Headings Checklist for Reviewed Cataloguers](/files/silas-documents/checklist-1.doc){:target="_blank"}
-2. [SILAS Approved Subject Headings](/files/silas-documents/SASH.docx){:target="_blank"}
-3. [SILAS Chinese Name Heading Policy](/files/silas-documents/chinames.doc){:target="_blank"}
-4. [Singapore Geographic Name Thesaurus](/files/silas-documents/sgnt.doc){:target="_blank"}
-5. [Schedule of Charges](/files/silas-documents/schedule-of-charge_Jan2011.docx){:target="_blank"}
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/silas-documents/checklist-1.doc" rel="noopener noreferrer nofollow" target="_blank">Name Headings Checklist for Reviewed Cataloguers</a>
+</p>
+</li>
+<li>
+<p><a href="/files/silas-documents/SASH.docx" rel="noopener noreferrer nofollow" target="_blank">SILAS Approved Subject Headings</a>
+</p>
+</li>
+<li>
+<p><a href="/files/silas-documents/chinames.doc" rel="noopener noreferrer nofollow" target="_blank">SILAS Chinese Name Heading Policy</a>
+</p>
+</li>
+<li>
+<p><a href="/files/silas-documents/sgnt.doc" rel="noopener noreferrer nofollow" target="_blank">Singapore Geographic Name Thesaurus</a>
+</p>
+</li>
+<li>
+<p><a href="/files/silas-documents/schedule-of-charge_Jan2011.docx" rel="noopener noreferrer nofollow" target="_blank">Schedule of Charges</a>
+</p>
+</li>
+</ol>
+<p></p>
