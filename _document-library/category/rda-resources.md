@@ -299,7 +299,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.loc.gov/marc/RDAinMARC29.html" rel="noopener noreferrer nofollow" target="_blank">RDA in MARC (June 2011)</a>{:target="_blank"}</p>
+<p><a href="http://www.loc.gov/marc/RDAinMARC29.html" rel="noopener noreferrer nofollow" target="_blank">RDA in MARC (June 2011)</a>
+</p>
 </li>
 </ul>
 <p></p>
