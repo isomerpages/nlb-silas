@@ -225,62 +225,78 @@ variant: tiptap
 <h4><strong>FRBR and FRAD</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="http://www.frbr.org/" rel="noopener noreferrer nofollow" target="_blank">FRBR Blog</a>{:target="_blank"}</p>
+<p><a href="http://www.frbr.org/" rel="noopener noreferrer nofollow" target="_blank">FRBR Blog</a>
+</p>
 </li>
 <li>
-<p><a href="http://www.loc.gov/cds/downloads/FRBR.PDF" rel="noopener noreferrer nofollow" target="_blank">What is FRBR? (Barbara Tillett)</a>{:target="_blank"}</p>
+<p><a href="http://www.loc.gov/cds/downloads/FRBR.PDF" rel="noopener noreferrer nofollow" target="_blank">What is FRBR? (Barbara Tillett)</a>
+</p>
 </li>
 <li>
-<p><a href="http://www.ifla.org/en/publications/functional-requirements-for-bibliographic-records" rel="noopener noreferrer nofollow" target="_blank">IFLA FRBR Site</a>{:target="_blank"}</p>
+<p><a href="http://www.ifla.org/en/publications/functional-requirements-for-bibliographic-records" rel="noopener noreferrer nofollow" target="_blank">IFLA FRBR Sit</a>
+</p>
 </li>
 <li>
-<p><a href="http://thenoisychannel.com/2009/03/10/functional-requirements-for-bibliographic-records/" rel="noopener noreferrer nofollow" target="_blank">FRBR (The Noisy Channel)</a>{:target="_blank"}</p>
+<p><a href="http://thenoisychannel.com/2009/03/10/functional-requirements-for-bibliographic-records/" rel="noopener noreferrer nofollow" target="_blank">FRBR (The Noisy Channel</a>
+</p>
 </li>
 <li>
-<p><a href="http://journal.code4lib.org/articles/775" rel="noopener noreferrer nofollow" target="_blank">Identifying FRBR Work-Level Data in MARC Bibliographic Records for Manifestations of Moving Images (Kelley McGrath and Lynne Bisko)</a>{:target="_blank"}</p>
+<p><a href="http://journal.code4lib.org/articles/775" rel="noopener noreferrer nofollow" target="_blank">Identifying FRBR Work-Level Data in MARC Bibliographic Records for Manifestations of Moving Images (Kelley McGrath and Lynne Bisko)</a>
+</p>
 </li>
 <li>
-<p><a href="http://presentations.ala.org/images/c/c5/Frad_ala_200806_color.pdf" rel="noopener noreferrer nofollow" target="_blank">An Introduction to FRAD (Glenn Patton)</a>{:target="_blank"}</p>
+<p><a href="http://presentations.ala.org/images/c/c5/Frad_ala_200806_color.pdf" rel="noopener noreferrer nofollow" target="_blank">An Introduction to FRAD (Glenn Patton)</a>
+</p>
 </li>
 <li>
-<p><a href="http://patton.pdf/" rel="noopener noreferrer nofollow" target="_blank">New Ways of Looking at Authority Data: Functional Requirements for Authority Data (Glenn Patton)</a>{:target="_blank"}</p>
+<p><a href="http://patton.pdf/" rel="noopener noreferrer nofollow" target="_blank">New Ways of Looking at Authority Data: Functional Requirements for Authority Data (Glenn Patton)</a>
+</p>
 </li>
 <li>
-<p><a href="http://www.oclc.org/research/activities/past/orprojects/frbr/default.htm" rel="noopener noreferrer nofollow" target="_blank">OCLC FRBR Research Activities</a>{:target="_blank"}</p>
+<p><a href="http://www.oclc.org/research/activities/past/orprojects/frbr/default.htm" rel="noopener noreferrer nofollow" target="_blank">OCLC FRBR Research Activities</a>
+</p>
 </li>
 <li>
-<p><a href="http://www.loc.gov/marc/marc-functional-analysis/frbr.html" rel="noopener noreferrer nofollow" target="_blank">MARC and FRBR (LC)</a>{:target="_blank"}</p>
+<p><a href="http://www.loc.gov/marc/marc-functional-analysis/frbr.html" rel="noopener noreferrer nofollow" target="_blank">MARC and FRBR (LC)</a>
+</p>
 </li>
 <li>
-<p><a href="http://frbr.slis.kent.edu/" rel="noopener noreferrer nofollow" target="_blank">Kent State’s FRBR Project</a>{:target="_blank"}</p>
+<p><a href="http://frbr.slis.kent.edu/" rel="noopener noreferrer nofollow" target="_blank">Kent State’s FRBR Project</a>
+</p>
 </li>
 <li>
-<p><a href="http://dynamicorange.com/2009/11/11/bringing-frbr-down-to-earth/" rel="noopener noreferrer nofollow" target="_blank">Bringing FRBR Down to Earth (Rob Styles)</a>{:target="_blank"}</p>
+<p><a href="http://dynamicorange.com/2009/11/11/bringing-frbr-down-to-earth/" rel="noopener noreferrer nofollow" target="_blank">Bringing FRBR Down to Earth (Rob Styles)</a>
+</p>
+<p><a href="http://celeripedean.wordpress.com/2009/03/12/code4lib-and-frbr/" rel="noopener noreferrer nofollow" target="_blank">More FRBR and FRAD Links (Celeripedean)</a>
+</p>
 </li>
 <li>
-<p><a href="http://celeripedean.wordpress.com/2009/03/12/code4lib-and-frbr/" rel="noopener noreferrer nofollow" target="_blank">More FRBR and FRAD Links (Celeripedean)</a>{:target="_blank"}</p>
+<p><a href="http://cidoc.ics.forth.gr/frbr_drafts.html" rel="noopener noreferrer nofollow" target="_blank">FRBRoo</a>
+</p>
 </li>
 <li>
-<p><a href="http://cidoc.ics.forth.gr/frbr_drafts.html" rel="noopener noreferrer nofollow" target="_blank">FRBRoo</a>{:target="_blank"}</p>
+<p><a href="http://www.youtube.com/watch?v=LN0vKCFsXPE&amp;feature=player_embedded" rel="noopener noreferrer nofollow" target="_blank">Bram Stoker’s Dracula in FRBR Terms</a>
+</p>
 </li>
 <li>
-<p><a href="http://www.youtube.com/watch?v=LN0vKCFsXPE&amp;feature=player_embedded" rel="noopener noreferrer nofollow" target="_blank">Bram Stoker’s Dracula in FRBR Terms</a>{:target="_blank"}</p>
-</li>
-<li>
-<p><a href="http://www.loc.gov/marc/marbi/2005/2005-report02.pdf" rel="noopener noreferrer nofollow" target="_blank">Using MARC21 with FRBR (Sally H. McCallum, Library of Congress)</a>{:target="_blank"}</p>
+<p><a href="http://www.loc.gov/marc/marbi/2005/2005-report02.pdf" rel="noopener noreferrer nofollow" target="_blank">Using MARC21 with FRBR (Sally H. McCallum, Library of Congress)</a>
+</p>
 </li>
 </ul>
 <hr>
 <h4><strong>RDA and MARC</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="http://www.loc.gov/standards/valuelist/rdacontent.html" rel="noopener noreferrer nofollow" target="_blank">Content Type (MARC 336)</a>{:target="_blank"}</p>
+<p><a href="http://www.loc.gov/standards/valuelist/rdacontent.html" rel="noopener noreferrer nofollow" target="_blank">Content Type (MARC 336)</a>
+</p>
 </li>
 <li>
-<p><a href="http://www.loc.gov/standards/valuelist/rdamedia.html" rel="noopener noreferrer nofollow" target="_blank">Media Type (MARC 337)</a>{:target="_blank"}</p>
+<p><a href="http://www.loc.gov/standards/valuelist/rdamedia.html" rel="noopener noreferrer nofollow" target="_blank">Media Type (MARC 337)</a>
+</p>
 </li>
 <li>
-<p><a href="http://www.loc.gov/standards/valuelist/rdacarrier.html" rel="noopener noreferrer nofollow" target="_blank">Carrier Type (MARC 338)</a>{:target="_blank"}</p>
+<p><a href="http://www.loc.gov/standards/valuelist/rdacarrier.html" rel="noopener noreferrer nofollow" target="_blank">Carrier Type (MARC 338)</a>
+</p>
 </li>
 <li>
 <p><a href="http://www.loc.gov/marc/RDAinMARC29.html" rel="noopener noreferrer nofollow" target="_blank">RDA in MARC (June 2011)</a>{:target="_blank"}</p>
