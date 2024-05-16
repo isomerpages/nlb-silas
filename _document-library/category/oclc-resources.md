@@ -4,8 +4,8 @@ permalink: /document-library/oclc-resources/
 third_nav_title: Category
 variant: markdown
 ---
-- [Dewey Training Courses (DDC and WebDewey)](http://www.oclc.org/dewey/resources/teachingsite/ddc22/default.htm#basic){:target="_blank"}
-	- The materials will include a [basic course](http://www.oclc.org/dewey/resources/teachingsite/ddc22/default.htm#basic){:target="_blank"} on the structure and use of the DDC, plus a series of [short modules](http://www.oclc.org/dewey/resources/teachingsite/ddc22/default.htm#short){:target="_blank"} based on special topics
+- [Dewey Training Courses (DDC and WebDewey)](http://www.oclc.org/dewey/resources/teachingsite/ddc22/default.htm#basic)
+	- The materials will include a [basic course](http://www.oclc.org/dewey/resources/teachingsite/ddc22/default.htm#basic) on the structure and use of the DDC, plus a series of [short modules](http://www.oclc.org/dewey/resources/teachingsite/ddc22/default.htm#short){:target="_blank"} based on special topics
 - [OCLC Bibliographical Formats and Standards (4th ed.)](http://www.oclc.org/bibformats/default.htm)
 	- [Authorities: Formats and Standards](http://www.oclc.org/support/documentation/worldcat/authorities/authformat/default.htm)
 - [OCLC Connexion Documentation](http://www.oclc.org/support/documentation/connexion/default.htm)
