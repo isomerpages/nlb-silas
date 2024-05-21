@@ -71,7 +71,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://future4catalogers.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">Future4catalogers’ Blog (Heidi Hoerman)</a>
+<p><a href="https://www.ifla.org/wp-content/uploads/2019/05/assets/cataloguing/reports/ala-ccda_201307.pdf" rel="noopener noreferrer nofollow" target="_blank">Future4catalogers’ Blog (Heidi Hoerman)</a>
 </p>
 </li>
 <li>
@@ -148,10 +148,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="http://ecommons.library.cornell.edu/handle/1813/11536" rel="noopener noreferrer nofollow" target="_blank">Facing Forward: The Challenges Facing Cataloging and Catalogers (Diane Hillmann)</a>
-</p>
-</li>
-<li>
-<p><a href="http://sites.google.com/site/codlinandshort/" rel="noopener noreferrer nofollow" target="_blank">Resource Description and Access Happy Fun Time Companion</a>
 </p>
 </li>
 <li>
