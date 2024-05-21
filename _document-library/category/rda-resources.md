@@ -165,7 +165,7 @@ variant: tiptap
 <li>
 <p><a href="http://slc.bc.ca/cheats/aacr22rda.htm" rel="noopener noreferrer nofollow" target="_blank">Major RDA Changes From AACR2 By MARC Field (Special Libraries Cataloguing)</a>
 </p>
-<p><a href="http://www.columbia.edu/cu/libraries/inside//units/bibcontrol/osmc/Delsey.ppt" rel="noopener noreferrer nofollow" target="_blank">RDA Compared with AACR2 (Tom Delsey)</a>
+<p><a href="https://www.slideserve.com/oshin/comparing-rda-and-aacr2" rel="noopener noreferrer nofollow" target="_blank">RDA Compared with AACR2 (Tom Delsey)</a>
 </p>
 <p><a href="https://www.slideserve.com/palmer/rda-in-marc-american-library-association-july-2009" rel="noopener noreferrer nofollow" target="_blank">RDA in MARC (Sally H. McCallum)</a>
 </p>
