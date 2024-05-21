@@ -151,15 +151,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://slc.bc.ca/cheats/aacr22rda.htm" rel="noopener noreferrer nofollow" target="_blank">Major RDA Changes From AACR2 By MARC Field (Special Libraries Cataloguing)</a>
+<p><a href="https://www.special-cataloguing.com/cheats/rda_aacr2" rel="noopener noreferrer nofollow" target="_blank">Major RDA Changes From AACR2 By MARC Field (Special Libraries Cataloguing)</a>
 </p>
 <p><a href="https://www.slideserve.com/oshin/comparing-rda-and-aacr2" rel="noopener noreferrer nofollow" target="_blank">RDA Compared with AACR2 (Tom Delsey)</a>
 </p>
 <p><a href="https://www.itsmarc.com/crs/mergedProjects/helptop1/helptop1/variable_data_fields/rda_in_marc_bibliographic_data.htm" rel="noopener noreferrer nofollow" target="_blank">RDA in MARC (May 2017)</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.d-nb.de/standardisierung/formate/marc_symposium.htm" rel="noopener noreferrer nofollow" target="_blank">German symposium on MARC21 (in English)</a>
 </p>
 </li>
 <li>
