@@ -195,7 +195,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.mcdu.unt.edu/" rel="noopener noreferrer nofollow" target="_blank">MARC Content Designation Utilization (MCDU) Project</a>
+<p><a href="https://www.researchgate.net/publication/237748270_Comparison_of_MARC_Content_Designation_Utilization_in_OCLC_WorldCat_Records_with_National_Core_and_Minimal_Level_Record_Standards" rel="noopener noreferrer nofollow" target="_blank">MARC Content Designation Utilization (MCDU) Project</a>
 </p>
 <p><a href="http://www.loc.gov/marc/formatchanges-RDA.html" rel="noopener noreferrer nofollow" target="_blank">MARC 21 Format 2009 Changes to Accommodate RDA</a>
 </p>
