@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.slc.bc.ca/rda1007.pdf" rel="noopener noreferrer nofollow" target="_blank">RDA: The Coming Cataloguing Debacle (Michael Gorman)</a>
+<p><a href="https://www.catalogingfutures.com/catalogingfutures/2007/12/michael-gorman.html" rel="noopener noreferrer nofollow" target="_blank">RDA: The Coming Cataloguing Debacle (Michael Gorman)</a>
 </p>
 </li>
 <li>
