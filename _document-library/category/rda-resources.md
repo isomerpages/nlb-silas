@@ -135,7 +135,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://rda_examples.doc/" rel="noopener noreferrer nofollow" target="_blank">Examples for RDA compared to AACR2 (Barbara Tillett)</a>
+<p><a href="https://www.loc.gov/catworkshop/RDA%20training%20materials/SCT%20RDA%20Records%20TG/index.html" rel="noopener noreferrer nofollow" target="_blank">RDA Record Examples</a>
 </p>
 </li>
 <li>
