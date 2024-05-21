@@ -159,7 +159,7 @@ variant: tiptap
 </p>
 <p><a href="https://www.slideserve.com/oshin/comparing-rda-and-aacr2" rel="noopener noreferrer nofollow" target="_blank">RDA Compared with AACR2 (Tom Delsey)</a>
 </p>
-<p><a href="https://www.slideserve.com/palmer/rda-in-marc-american-library-association-july-2009" rel="noopener noreferrer nofollow" target="_blank">RDA in MARC (Sally H. McCallum)</a>
+<p><a href="https://www.itsmarc.com/crs/mergedProjects/helptop1/helptop1/variable_data_fields/rda_in_marc_bibliographic_data.htm" rel="noopener noreferrer nofollow" target="_blank">RDA in MARC (May 2017)</a>
 </p>
 </li>
 <li>
