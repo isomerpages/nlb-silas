@@ -249,7 +249,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://frbr.slis.kent.edu/" rel="noopener noreferrer nofollow" target="_blank">Kent State’s FRBR Project</a>
+<p><a href="https://www.ifla.org/wp-content/uploads/2019/05/assets/cataloguing/frbrrg/frbr-bibliography.pdf" rel="noopener noreferrer nofollow" target="_blank">Kent State’s FRBR Project</a>
 </p>
 </li>
 <li>
