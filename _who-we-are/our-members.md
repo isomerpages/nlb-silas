@@ -10,7 +10,7 @@ Anglo-Chinese Independent School,
 121 Dover Road, Singapore 139650,
 Mr Galvin Soh Boon Ming,
 galvinsohbm@acsindep.edu.sg (Librarian),
-6870 0323
+6870 0650
 
 Asian Civilisations Museum, 
 1 Empress Place, Singapore 179555,
