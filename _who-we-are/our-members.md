@@ -8,8 +8,8 @@ There are currently 31 library members of SILAS. They are from higher learning i
 
 Anglo-Chinese Independent School,
 121 Dover Road, Singapore 139650,
-Mdm Susie Wong,
-susie@acsindep.edu.sg (Library Officer),
+Mr Galvin Soh Boon Ming,
+galvinsohbm@acsindep.edu.sg (Librarian),
 6870 0323
 
 Asian Civilisations Museum, 
