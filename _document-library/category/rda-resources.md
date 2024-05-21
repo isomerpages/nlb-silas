@@ -143,11 +143,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.rda-jsc.org/docs/5sec7rev.pdf" rel="noopener noreferrer nofollow" target="_blank">Changes to AACR2 Instructions (Joint Steering Committee)</a>
+<p><a href="https://www.rdatoolkit.org/archivedsite/docs/5sec7rev.pdf" rel="noopener noreferrer nofollow" target="_blank">Changes to AACR2 Instructions (Joint Steering Committee)</a>
 </p>
 </li>
 <li>
-<p><a href="http://www.rda-jsc.org/docs/iflasatellite-20080808-demo.pdf" rel="noopener noreferrer nofollow" target="_blank">RDA Features &amp; Functionality (Presentation by Chris Oliver)</a>
+<p><a href="https://www.rdatoolkit.org/archivedsite/docs/iflasatellite-20080808-demo.pdf" rel="noopener noreferrer nofollow" target="_blank">RDA Features &amp; Functionality (Presentation by Chris Oliver)</a>
 </p>
 </li>
 <li>
@@ -167,7 +167,7 @@ variant: tiptap
 </p>
 <p><a href="http://www.columbia.edu/cu/libraries/inside//units/bibcontrol/osmc/Delsey.ppt" rel="noopener noreferrer nofollow" target="_blank">RDA Compared with AACR2 (Tom Delsey)</a>
 </p>
-<p><a href="http://www.columbia.edu/cu/libraries/inside//units/bibcontrol/osmc/RDAMARC.ppt" rel="noopener noreferrer nofollow" target="_blank">RDA in MARC (Sally H. McCallum)</a>
+<p><a href="https://www.slideserve.com/palmer/rda-in-marc-american-library-association-july-2009" rel="noopener noreferrer nofollow" target="_blank">RDA in MARC (Sally H. McCallum)</a>
 </p>
 </li>
 <li>
@@ -179,7 +179,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://tsig.wikispaces.com/Pre-conference+2009+presentation+materials" rel="noopener noreferrer nofollow" target="_blank">From Rules to Entities: Cataloging With RDA (Conference Presentations)</a>
+<p><a href="https://www.loc.gov/catworkshop/RDA%20training%20materials/LC%20RDA%20Training/CopyCatFINAL" rel="noopener noreferrer nofollow" target="_blank">From Rules to Entities: Cataloging With RDA (Conference Presentations)</a>
 </p>
 </li>
 <li>
