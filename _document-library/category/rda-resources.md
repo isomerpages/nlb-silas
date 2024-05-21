@@ -155,10 +155,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.apla2009.ca/index.php/program/details/20-Barbara%20Tillett" rel="noopener noreferrer nofollow" target="_blank">Sharing Standards for Bibliographic Data Worldwide: an Overview of Changes in Cataloguing Practices (Barbara Tillett)</a>
-</p>
-</li>
-<li>
 <p><a href="http://slc.bc.ca/cheats/aacr22rda.htm" rel="noopener noreferrer nofollow" target="_blank">Major RDA Changes From AACR2 By MARC Field (Special Libraries Cataloguing)</a>
 </p>
 <p><a href="https://www.slideserve.com/oshin/comparing-rda-and-aacr2" rel="noopener noreferrer nofollow" target="_blank">RDA Compared with AACR2 (Tom Delsey)</a>
