@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.slc.bc.ca/rda1007.pdf" rel="noopener noreferrer nofollow" target="_blank">RDA: The Coming Cataloguing Debacle (Michael Gorman)</a>
+<p><a href="https://www.catalogingfutures.com/catalogingfutures/2007/12/michael-gorman.html" rel="noopener noreferrer nofollow" target="_blank">RDA: The Coming Cataloguing Debacle (Michael Gorman)</a>
 </p>
 </li>
 <li>
@@ -71,7 +71,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://future4catalogers.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">Future4catalogers’ Blog (Heidi Hoerman)</a>
+<p><a href="https://www.ifla.org/wp-content/uploads/2019/05/assets/cataloguing/reports/ala-ccda_201307.pdf" rel="noopener noreferrer nofollow" target="_blank">Future4catalogers’ Blog (Heidi Hoerman)</a>
 </p>
 </li>
 <li>
@@ -123,10 +123,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.oclc.org/support/documentation/worldcat/tb/258/default.htm" rel="noopener noreferrer nofollow" target="_blank">Technical Bulletin 258: OCLC-MARC Format Update 2010 including RDA Changes</a>
-</p>
-</li>
-<li>
 <p><a href="http://www.rda-rsc.org/content/rda_faq" rel="noopener noreferrer nofollow" target="_blank">Joint Steering Committee for Development of RDA: RDA FAQ</a>
 </p>
 </li>
@@ -139,15 +135,15 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://rda_examples.doc/" rel="noopener noreferrer nofollow" target="_blank">Examples for RDA compared to AACR2 (Barbara Tillett)</a>
+<p><a href="https://www.loc.gov/catworkshop/RDA%20training%20materials/SCT%20RDA%20Records%20TG/index.html" rel="noopener noreferrer nofollow" target="_blank">RDA Record Examples</a>
 </p>
 </li>
 <li>
-<p><a href="http://www.rda-jsc.org/docs/5sec7rev.pdf" rel="noopener noreferrer nofollow" target="_blank">Changes to AACR2 Instructions (Joint Steering Committee)</a>
+<p><a href="https://www.rdatoolkit.org/archivedsite/docs/5sec7rev.pdf" rel="noopener noreferrer nofollow" target="_blank">Changes to AACR2 Instructions (Joint Steering Committee)</a>
 </p>
 </li>
 <li>
-<p><a href="http://www.rda-jsc.org/docs/iflasatellite-20080808-demo.pdf" rel="noopener noreferrer nofollow" target="_blank">RDA Features &amp; Functionality (Presentation by Chris Oliver)</a>
+<p><a href="https://www.rdatoolkit.org/archivedsite/docs/iflasatellite-20080808-demo.pdf" rel="noopener noreferrer nofollow" target="_blank">RDA Features &amp; Functionality (Presentation by Chris Oliver)</a>
 </p>
 </li>
 <li>
@@ -155,23 +151,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://sites.google.com/site/codlinandshort/" rel="noopener noreferrer nofollow" target="_blank">Resource Description and Access Happy Fun Time Companion</a>
+<p><a href="https://www.special-cataloguing.com/cheats/rda_aacr2" rel="noopener noreferrer nofollow" target="_blank">Major RDA Changes From AACR2 By MARC Field (Special Libraries Cataloguing)</a>
 </p>
-</li>
-<li>
-<p><a href="http://www.apla2009.ca/index.php/program/details/20-Barbara%20Tillett" rel="noopener noreferrer nofollow" target="_blank">Sharing Standards for Bibliographic Data Worldwide: an Overview of Changes in Cataloguing Practices (Barbara Tillett)</a>
+<p><a href="https://www.slideserve.com/oshin/comparing-rda-and-aacr2" rel="noopener noreferrer nofollow" target="_blank">RDA Compared with AACR2 (Tom Delsey)</a>
 </p>
-</li>
-<li>
-<p><a href="http://slc.bc.ca/cheats/aacr22rda.htm" rel="noopener noreferrer nofollow" target="_blank">Major RDA Changes From AACR2 By MARC Field (Special Libraries Cataloguing)</a>
-</p>
-<p><a href="http://www.columbia.edu/cu/libraries/inside//units/bibcontrol/osmc/Delsey.ppt" rel="noopener noreferrer nofollow" target="_blank">RDA Compared with AACR2 (Tom Delsey)</a>
-</p>
-<p><a href="http://www.columbia.edu/cu/libraries/inside//units/bibcontrol/osmc/RDAMARC.ppt" rel="noopener noreferrer nofollow" target="_blank">RDA in MARC (Sally H. McCallum)</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.d-nb.de/standardisierung/formate/marc_symposium.htm" rel="noopener noreferrer nofollow" target="_blank">German symposium on MARC21 (in English)</a>
+<p><a href="https://www.itsmarc.com/crs/mergedProjects/helptop1/helptop1/variable_data_fields/rda_in_marc_bibliographic_data.htm" rel="noopener noreferrer nofollow" target="_blank">RDA in MARC (May 2017)</a>
 </p>
 </li>
 <li>
@@ -179,7 +163,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://tsig.wikispaces.com/Pre-conference+2009+presentation+materials" rel="noopener noreferrer nofollow" target="_blank">From Rules to Entities: Cataloging With RDA (Conference Presentations)</a>
+<p><a href="https://www.loc.gov/catworkshop/RDA%20training%20materials/LC%20RDA%20Training/CopyCatFINAL" rel="noopener noreferrer nofollow" target="_blank">From Rules to Entities: Cataloging With RDA (Conference Presentations)</a>
 </p>
 </li>
 <li>
@@ -195,10 +179,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.techsource.ala.org/blog/2007/06/out-of-the-secret-garden-the-rdadc-initiative.html" rel="noopener noreferrer nofollow" target="_blank">Out of the Secret Garden: The RDA/DC Initiative</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.dublincore.org/groups/libraries/dcmirdataskgroup/" rel="noopener noreferrer nofollow" target="_blank">DCMI/RDA Task Group Wiki</a>
 </p>
 </li>
@@ -207,7 +187,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.mcdu.unt.edu/" rel="noopener noreferrer nofollow" target="_blank">MARC Content Designation Utilization (MCDU) Project</a>
+<p><a href="https://www.researchgate.net/publication/237748270_Comparison_of_MARC_Content_Designation_Utilization_in_OCLC_WorldCat_Records_with_National_Core_and_Minimal_Level_Record_Standards" rel="noopener noreferrer nofollow" target="_blank">MARC Content Designation Utilization (MCDU) Project</a>
 </p>
 <p><a href="http://www.loc.gov/marc/formatchanges-RDA.html" rel="noopener noreferrer nofollow" target="_blank">MARC 21 Format 2009 Changes to Accommodate RDA</a>
 </p>
@@ -261,7 +241,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://frbr.slis.kent.edu/" rel="noopener noreferrer nofollow" target="_blank">Kent State’s FRBR Project</a>
+<p><a href="https://www.ifla.org/wp-content/uploads/2019/05/assets/cataloguing/frbrrg/frbr-bibliography.pdf" rel="noopener noreferrer nofollow" target="_blank">Kent State’s FRBR Project</a>
 </p>
 </li>
 <li>
