@@ -123,10 +123,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.oclc.org/support/documentation/worldcat/tb/258/default.htm" rel="noopener noreferrer nofollow" target="_blank">Technical Bulletin 258: OCLC-MARC Format Update 2010 including RDA Changes</a>
-</p>
-</li>
-<li>
 <p><a href="http://www.rda-rsc.org/content/rda_faq" rel="noopener noreferrer nofollow" target="_blank">Joint Steering Committee for Development of RDA: RDA FAQ</a>
 </p>
 </li>
