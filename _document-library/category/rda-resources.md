@@ -191,10 +191,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.techsource.ala.org/blog/2007/06/out-of-the-secret-garden-the-rdadc-initiative.html" rel="noopener noreferrer nofollow" target="_blank">Out of the Secret Garden: The RDA/DC Initiative</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.dublincore.org/groups/libraries/dcmirdataskgroup/" rel="noopener noreferrer nofollow" target="_blank">DCMI/RDA Task Group Wiki</a>
 </p>
 </li>
