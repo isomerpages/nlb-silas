@@ -229,7 +229,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://patton.pdf/" rel="noopener noreferrer nofollow" target="_blank">New Ways of Looking at Authority Data: Functional Requirements for Authority Data (Glenn Patton)</a>
+<p><a href="https://repository.ifla.org/bitstream/123456789/757/1/frad_2013.pdf" rel="noopener noreferrer nofollow" target="_blank">New Ways of Looking at Authority Data: Functional Requirements for Authority Data (Glenn Patton)</a>
 </p>
 </li>
 <li>
