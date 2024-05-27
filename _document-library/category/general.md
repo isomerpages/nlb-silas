@@ -28,4 +28,4 @@ variant: markdown
 - The Researching Librarian
 	- This site gathers links to selected web resources useful for research: freely searchable citation and full-test databases, funding information, relevant journals, statistics and statistical methods, useful research tools, current awareness sources, and conference papers and proceedings.
 - Multilingual Dictionay of Cataloguing Terms and Concepts (IFLA, September 2010)
-	- The Multilingual dictionary of cataloguing terms and concepts contains definitions for many terms and concepts used by the library cataloguing community. Terms and definitions are available in English and a variety of other languages. (This [version](http://www.silas.org.sg/Home/DocMgmt.aspx?Command=Core_Download&amp;EntryId=140) lists all the terms in English and Chinese from the original version, compiled by SILAS)
+	- The Multilingual dictionary of cataloguing terms and concepts contains definitions for many terms and concepts used by the library cataloguing community. Terms and definitions are available in English and a variety of other languages. 
