@@ -23,7 +23,7 @@ variant: markdown
 - Penn State University Libraries
 – The University Libraries have distinguished themselves becoming a national leader in making the new electronic forms of information available to the users.
 	- This website provides links to the Libraries’ instructional opportunities, traditional and online collections and services. It’s not only as the primary source for traditional materials for books, newspapers, and journals but for digital resources including more than 350 databases available in LIAS (Library Information Access System).
-- Project Gutenberg
+- Project Gutenberg (https://www.gutenberg.org/)
 	- Project Gutenberg is the first single collection of free electronic books, or eBooks since 1971. There are over 25,000 free books in the Project Gutenberg and a grand total of over 100,000 titles are available at Project Gutenberg.
 - The Researching Librarian
 	- This site gathers links to selected web resources useful for research: freely searchable citation and full-test databases, funding information, relevant journals, statistics and statistical methods, useful research tools, current awareness sources, and conference papers and proceedings.
