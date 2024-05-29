@@ -189,10 +189,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.loc.gov/marc/RDAinMARC29.html" rel="noopener noreferrer nofollow" target="_blank">RDA in MARC</a>
-</p>
-</li>
-<li>
 <p><a href="http://www.loc.gov/catdir/pcc/PCC-RDA-FAQ.html" rel="noopener noreferrer nofollow" target="_blank">PCC and RDA FAQ</a>
 </p>
 </li>
