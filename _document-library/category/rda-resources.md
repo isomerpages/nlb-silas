@@ -159,7 +159,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.loc.gov/catworkshop/RDA%20training%20materials/LC%20RDA%20Training/CopyCatFINAL" rel="noopener noreferrer nofollow" target="_blank">From Rules to Entities: Cataloging With RDA (Conference Presentations)</a>
+<p><a href="https://www.loc.gov/catworkshop/RDA%20training%20materials/LC%20RDA%20Training/CopyCatFINAL" rel="noopener noreferrer nofollow" target="_blank">Copy Cataloguing Using RDA developed by Tim Carlton</a>
 </p>
 </li>
 <li>
