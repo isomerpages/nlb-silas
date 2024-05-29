@@ -233,7 +233,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.ifla.org/wp-content/uploads/2019/05/assets/cataloguing/frbrrg/frbr-bibliography.pdf" rel="noopener noreferrer nofollow" target="_blank">Kent State’s FRBR Project</a>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">IFLA: FRBR Bibliography</a>
 </p>
 </li>
 <li>
