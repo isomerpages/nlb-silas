@@ -131,11 +131,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.loc.gov/acq/conser/rda_examples-rev04-15-2009.pdf" rel="noopener noreferrer nofollow" target="_blank">Examples of Differences Between AACR2 and RDA (Barbara Tillett)</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.loc.gov/catworkshop/RDA%20training%20materials/SCT%20RDA%20Records%20TG/index.html" rel="noopener noreferrer nofollow" target="_blank">RDA Record Examples</a>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">RDA Record Examples</a>
 </p>
 </li>
 <li>
