@@ -131,11 +131,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.loc.gov/acq/conser/rda_examples-rev04-15-2009.pdf" rel="noopener noreferrer nofollow" target="_blank">Examples of Differences Between AACR2 and RDA (Barbara Tillett)</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.loc.gov/catworkshop/RDA%20training%20materials/SCT%20RDA%20Records%20TG/index.html" rel="noopener noreferrer nofollow" target="_blank">RDA Record Examples</a>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">RDA Record Examples</a>
 </p>
 </li>
 <li>
@@ -163,7 +159,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.loc.gov/catworkshop/RDA%20training%20materials/LC%20RDA%20Training/CopyCatFINAL" rel="noopener noreferrer nofollow" target="_blank">From Rules to Entities: Cataloging With RDA (Conference Presentations)</a>
+<p><a href="https://www.loc.gov/catworkshop/RDA%20training%20materials/LC%20RDA%20Training/CopyCatFINAL" rel="noopener noreferrer nofollow" target="_blank">Copy Cataloguing Using RDA developed by Tim Carlton</a>
 </p>
 </li>
 <li>
@@ -190,10 +186,6 @@ variant: tiptap
 <p><a href="https://www.researchgate.net/publication/237748270_Comparison_of_MARC_Content_Designation_Utilization_in_OCLC_WorldCat_Records_with_National_Core_and_Minimal_Level_Record_Standards" rel="noopener noreferrer nofollow" target="_blank">MARC Content Designation Utilization (MCDU) Project</a>
 </p>
 <p><a href="http://www.loc.gov/marc/formatchanges-RDA.html" rel="noopener noreferrer nofollow" target="_blank">MARC 21 Format 2009 Changes to Accommodate RDA</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.loc.gov/marc/RDAinMARC29.html" rel="noopener noreferrer nofollow" target="_blank">RDA in MARC</a>
 </p>
 </li>
 <li>
@@ -241,7 +233,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.ifla.org/wp-content/uploads/2019/05/assets/cataloguing/frbrrg/frbr-bibliography.pdf" rel="noopener noreferrer nofollow" target="_blank">Kent State’s FRBR Project</a>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">IFLA: FRBR Bibliography</a>
 </p>
 </li>
 <li>

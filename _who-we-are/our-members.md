@@ -121,9 +121,9 @@ NURA_ABDUL_KARIM@nparks.gov.sg,
 National University of Singapore, 
 Central Library, 12 Kent Ridge Crescent, 
 Singapore 119275, 
-Ms Ong Hong Kiat,
-clbonghk@nus.edu.sg,
-6516 2037
+Ms Quek Tze Guek (Lead Subscriptions Librarian),
+clbqtg@nus.edu.sg,
+6516 6239
 
 Ngee Ann Polytechnic (Lien Ying Chow Library), 
 535 Clementi Road, Singapore 599489, 
