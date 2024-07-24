@@ -18,8 +18,6 @@ variant: markdown
 
 - **Singapore Infopedia (National Library Board)** – Singapore Infopedia is an electronic encyclopedia on Singapore, providing access to collection of articles on Singapore’s history, culture, people, and events. Each article provides and overview of a topic and is accompanied by references that could be used to research the topic further. Related images in selected articles and cross-referencing between related articles help to create a fuller understanding of a particular topic.
 	- This is a one-stop service and networking center where the writing community in Singapore can gain access to a myriad of services and resources tailored for their special needs. It also provides links to: Singapore Literature Prize; Asian Children’s, Writers and Illustrators Conference; Singapore Book Club; Writers Kit; Publishers &amp; Book Dealers.
-- **Singapore Writers Centre**
-	-(https://www.bookcouncil.sg/about)
 
 <hr>
 
