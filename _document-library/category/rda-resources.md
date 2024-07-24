@@ -75,7 +75,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.rda-jsc.org/rdadiscuss.html" rel="noopener noreferrer nofollow" target="_blank">RDA-L</a>
+<p><a href="https://www.rdatoolkit.org/join_RDAL" rel="noopener noreferrer nofollow" target="_blank">RDA-L</a>
 </p>
 </li>
 <li>
