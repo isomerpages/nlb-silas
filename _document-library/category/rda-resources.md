@@ -149,10 +149,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.ifla.org/VII/s13/icp/ICP-2009_en.pdf" rel="noopener noreferrer nofollow" target="_blank">Statement of International Cataloguing Principles, 2009</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.loc.gov/catworkshop/RDA%20training%20materials/LC%20RDA%20Training/CopyCatFINAL" rel="noopener noreferrer nofollow" target="_blank">Copy Cataloguing Using RDA developed by Tim Carlton</a>
 </p>
 </li>
