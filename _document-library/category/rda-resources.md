@@ -47,10 +47,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://weblog.amillion.us/archives/470" rel="noopener noreferrer nofollow" target="_blank">Radiohead and the Death of MARC Cataloging</a>
-</p>
-</li>
-<li>
 <p><a href="http://commonplace.net/2009/05/who-needs-marc/" rel="noopener noreferrer nofollow" target="_blank">Who Needs MARC? (Lukas Koster)</a>
 </p>
 </li>
@@ -117,8 +113,6 @@ variant: tiptap
 </p>
 <p><a href="http://eprints.rclis.org/18328/1/BCLAPresentation_20100427.pdf" rel="noopener noreferrer nofollow" target="_blank">Changes from AACR2 to RDA: A Comparison of Examples (Adam Schiff)</a>
 </p>
-<p><a href="http://needrda.pdf/" rel="noopener noreferrer nofollow" target="_blank">Why Do We Need RDA?</a>
-</p>
 <p><a href="http://www.oclc.org/rda/default.htm" rel="noopener noreferrer nofollow" target="_blank">RDA and OCLC</a>
 </p>
 </li>
@@ -168,10 +162,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="http://metadataregistry.org/rdabrowse.htm" rel="noopener noreferrer nofollow" target="_blank">RDA Element Sets and Value Vocabularies</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.dublincore.org/dcmirdataskgroup/Scenarios" rel="noopener noreferrer nofollow" target="_blank">Cataloger Scenarios</a>
 </p>
 </li>
 <li>
