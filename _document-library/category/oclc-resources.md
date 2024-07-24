@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="http://www.oclc.org/dewey/resources/teachingsite/ddc22/default.htm#basic" rel="noopener noreferrer nofollow" target="_blank">Dewey Training Courses (DDC and WebDewey)</a>
+<p><a href="https://help.oclc.org/Metadata_Services/Connexion" rel="noopener noreferrer nofollow" target="_blank">Dewey Training Courses (DDC and WebDewey)</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>

@@ -47,10 +47,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://weblog.amillion.us/archives/470" rel="noopener noreferrer nofollow" target="_blank">Radiohead and the Death of MARC Cataloging</a>
-</p>
-</li>
-<li>
 <p><a href="http://commonplace.net/2009/05/who-needs-marc/" rel="noopener noreferrer nofollow" target="_blank">Who Needs MARC? (Lukas Koster)</a>
 </p>
 </li>
@@ -75,11 +71,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.personal.psu.edu/jxa16/blogs/resource_description_and_access_ala_rep_notes/" rel="noopener noreferrer nofollow" target="_blank">Resource Description and Access: ALA Rep Notes (John Attig)</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.rda-jsc.org/rdadiscuss.html" rel="noopener noreferrer nofollow" target="_blank">RDA-L</a>
+<p><a href="https://www.rdatoolkit.org/join_RDAL" rel="noopener noreferrer nofollow" target="_blank">RDA-L</a>
 </p>
 </li>
 <li>
@@ -117,17 +109,11 @@ variant: tiptap
 </p>
 <p><a href="http://eprints.rclis.org/18328/1/BCLAPresentation_20100427.pdf" rel="noopener noreferrer nofollow" target="_blank">Changes from AACR2 to RDA: A Comparison of Examples (Adam Schiff)</a>
 </p>
-<p><a href="http://needrda.pdf/" rel="noopener noreferrer nofollow" target="_blank">Why Do We Need RDA?</a>
-</p>
 <p><a href="http://www.oclc.org/rda/default.htm" rel="noopener noreferrer nofollow" target="_blank">RDA and OCLC</a>
 </p>
 </li>
 <li>
 <p><a href="http://www.rda-rsc.org/content/rda_faq" rel="noopener noreferrer nofollow" target="_blank">Joint Steering Committee for Development of RDA: RDA FAQ</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.rda-jsc.org/docs/5sec7rev.pdf" rel="noopener noreferrer nofollow" target="_blank">Issues Deferred Until After the First Release of RDA</a>
 </p>
 </li>
 <li>
@@ -155,23 +141,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.ifla.org/VII/s13/icp/ICP-2009_en.pdf" rel="noopener noreferrer nofollow" target="_blank">Statement of International Cataloguing Principles, 2009</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.loc.gov/catworkshop/RDA%20training%20materials/LC%20RDA%20Training/CopyCatFINAL" rel="noopener noreferrer nofollow" target="_blank">Copy Cataloguing Using RDA developed by Tim Carlton</a>
 </p>
 </li>
 <li>
 <p><a href="http://www.slideshare.net/HeidiHoerman/oclcmougpresentation-presentation" rel="noopener noreferrer nofollow" target="_blank">Heidi Hoerman’s OCLC/MOUG Presentation</a>
-</p>
-</li>
-<li>
-<p><a href="http://metadataregistry.org/rdabrowse.htm" rel="noopener noreferrer nofollow" target="_blank">RDA Element Sets and Value Vocabularies</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.dublincore.org/dcmirdataskgroup/Scenarios" rel="noopener noreferrer nofollow" target="_blank">Cataloger Scenarios</a>
 </p>
 </li>
 <li>
@@ -268,10 +242,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="http://www.loc.gov/standards/valuelist/rdacarrier.html" rel="noopener noreferrer nofollow" target="_blank">Carrier Type (MARC 338)</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.loc.gov/marc/RDAinMARC29.html" rel="noopener noreferrer nofollow" target="_blank">RDA in MARC (June 2011)</a>
 </p>
 </li>
 </ul>
