@@ -71,10 +71,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.personal.psu.edu/jxa16/blogs/resource_description_and_access_ala_rep_notes/" rel="noopener noreferrer nofollow" target="_blank">Resource Description and Access: ALA Rep Notes (John Attig)</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.rdatoolkit.org/join_RDAL" rel="noopener noreferrer nofollow" target="_blank">RDA-L</a>
 </p>
 </li>
@@ -121,10 +117,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.rda-jsc.org/docs/5sec7rev.pdf" rel="noopener noreferrer nofollow" target="_blank">Issues Deferred Until After the First Release of RDA</a>
-</p>
-</li>
-<li>
 <p><a href="" rel="noopener noreferrer nofollow" target="_blank">RDA Record Examples</a>
 </p>
 </li>
@@ -154,10 +146,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="http://www.slideshare.net/HeidiHoerman/oclcmougpresentation-presentation" rel="noopener noreferrer nofollow" target="_blank">Heidi Hoerman’s OCLC/MOUG Presentation</a>
-</p>
-</li>
-<li>
-<p><a href="http://metadataregistry.org/rdabrowse.htm" rel="noopener noreferrer nofollow" target="_blank">RDA Element Sets and Value Vocabularies</a>
 </p>
 </li>
 <li>
@@ -254,10 +242,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="http://www.loc.gov/standards/valuelist/rdacarrier.html" rel="noopener noreferrer nofollow" target="_blank">Carrier Type (MARC 338)</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.loc.gov/marc/RDAinMARC29.html" rel="noopener noreferrer nofollow" target="_blank">RDA in MARC (June 2011)</a>
 </p>
 </li>
 </ul>
