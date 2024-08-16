@@ -27,7 +27,7 @@ on special topics</p>
 </ul>
 </li>
 <li>
-<p><a href="http://www.oclc.org/support/documentation/connexion/default.htm" rel="noopener noreferrer nofollow" target="_blank">OCLC Connexion Documentation</a>
+<p><a href="https://help.oclc.org/Metadata_Services/Connexion" rel="noopener noreferrer nofollow" target="_blank">OCLC Connexion Documentation</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
