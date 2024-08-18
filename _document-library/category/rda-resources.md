@@ -109,12 +109,6 @@ variant: tiptap
 </p>
 <p><a href="http://eprints.rclis.org/18328/1/BCLAPresentation_20100427.pdf" rel="noopener noreferrer nofollow" target="_blank">Changes from AACR2 to RDA: A Comparison of Examples (Adam Schiff)</a>
 </p>
-<p><a href="http://www.oclc.org/rda/default.htm" rel="noopener noreferrer nofollow" target="_blank">RDA and OCLC</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.rda-rsc.org/content/rda_faq" rel="noopener noreferrer nofollow" target="_blank">Joint Steering Committee for Development of RDA: RDA FAQ</a>
-</p>
 </li>
 <li>
 <p><a href="" rel="noopener noreferrer nofollow" target="_blank">RDA Record Examples</a>
