@@ -185,7 +185,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://presentations.ala.org/images/c/c5/Frad_ala_200806_color.pdf" rel="noopener noreferrer nofollow" target="_blank">An Introduction to FRAD (Glenn Patton)</a>
+<p><a href="https://www.alcts.ala.org/metadatablog/2008/06/getting_ready_for_rda_and_frbr_what_you_/" rel="noopener noreferrer nofollow" target="_blank">An Introduction to FRAD (Glenn Patton)</a>
 </p>
 </li>
 <li>
