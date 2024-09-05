@@ -59,7 +59,7 @@ Cataloging Manuals.</p>
 <li>
 <p><strong>Cataloguing and Processing: A Resource for School Library Personnel</strong> –
 This is the official website of Manitoba Education and Training, School
-Programs Division. This resource outlines the procedures for catalouging
+Programs Division. This resource outlines the procedures for cataloguing
 and processing library materials. This publication serves as a recommended
 bibliographic standard for school libraries in Manitoba.</p>
 <p></p>
@@ -89,7 +89,7 @@ cataloguing; publications, reports and subject headings.</p>
 website, you can find the documentation on Catalogue and Metadata services.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://library.princeton.edu/cams/ld4p" rel="noopener noreferrer nofollow" target="_blank">https://library.princeton.edu/cams/ld4p</a>
+<p><a href="https://pul-confluence.atlassian.net/wiki/spaces/ResourceDescription/overview" rel="noopener noreferrer nofollow" target="_blank">https://library.princeton.edu/cams/ld4p</a>
 </p>
 </li>
 </ul>
@@ -131,7 +131,7 @@ Records</p>
 <p><strong>RDA Steering Committee</strong> – Website of the RDA Steering Committee
 (RSC). Previously known as the JSC/RDA. it was responsible for maintaining
 the Anglo-American Cataloguing Rules, and is working continuously on the
-recently-released code, RDA (aka Resource Description and Access). <a href="https://www.rdatoolkit.org/" rel="noopener noreferrer nofollow" target="_blank">https://www.rdatoolkit.org/ </a>
+recently-released code, RDA (aka Resource Description and Access). <a href="https://www.rdatoolkit.org/" rel="noopener noreferrer nofollow" target="_blank">https://www.rdatoolkit.org/</a>
 </p>
 </li>
 </ul>
