@@ -211,7 +211,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://cidoc.ics.forth.gr/frbr_drafts.html" rel="noopener noreferrer nofollow" target="_blank">FRBRoo</a>
+<p><a href="https://cidoc-crm.org/frbroo/ModelVersion/frbroo-v.-3.0" rel="noopener nofollow" target="_blank">FRBRoo v.3.0</a>
 </p>
 </li>
 <li>
