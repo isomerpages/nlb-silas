@@ -89,7 +89,7 @@ variant: tiptap
 <h4><strong>Other Resources</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="http://www.rdaonline.org/" rel="noopener noreferrer nofollow" target="_blank">RDA Website</a>
+<p><a href="https://www.loc.gov/aba/rda/" rel="noopener noreferrer nofollow" target="_blank">RDA Website</a>
 </p>
 </li>
 <li>
