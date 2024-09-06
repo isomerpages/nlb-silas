@@ -89,7 +89,7 @@ variant: tiptap
 <h4><strong>Other Resources</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="http://www.rdaonline.org/" rel="noopener noreferrer nofollow" target="_blank">RDA Website</a>
+<p><a href="https://www.loc.gov/aba/rda/" rel="noopener noreferrer nofollow" target="_blank">RDA Website</a>
 </p>
 </li>
 <li>
@@ -185,7 +185,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://presentations.ala.org/images/c/c5/Frad_ala_200806_color.pdf" rel="noopener noreferrer nofollow" target="_blank">An Introduction to FRAD (Glenn Patton)</a>
+<p><a href="https://www.alcts.ala.org/metadatablog/2008/06/getting_ready_for_rda_and_frbr_what_you_/" rel="noopener noreferrer nofollow" target="_blank">An Introduction to FRAD (Glenn Patton)</a>
 </p>
 </li>
 <li>
@@ -211,7 +211,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://cidoc.ics.forth.gr/frbr_drafts.html" rel="noopener noreferrer nofollow" target="_blank">FRBRoo</a>
+<p><a href="https://cidoc-crm.org/frbroo/ModelVersion/frbroo-v.-3.0" rel="noopener nofollow" target="_blank">FRBRoo v.3.0</a>
 </p>
 </li>
 <li>
