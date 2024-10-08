@@ -185,11 +185,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.alcts.ala.org/metadatablog/2008/06/getting_ready_for_rda_and_frbr_what_you_/" rel="noopener noreferrer nofollow" target="_blank">An Introduction to FRAD (Glenn Patton)</a>
-</p>
-</li>
-<li>
-<p><a href="https://repository.ifla.org/bitstream/123456789/757/1/frad_2013.pdf" rel="noopener noreferrer nofollow" target="_blank">Functional Requirements for Authority Data : A conceptual model</a>
+<p><a href="https://repository.ifla.org/items/cd933926-a33c-4aff-93c5-2f047b41be0a" rel="noopener noreferrer nofollow" target="_blank">Functional Requirements for Authority Data : A conceptual model</a>
 </p>
 </li>
 <li>
