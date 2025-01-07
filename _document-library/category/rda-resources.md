@@ -47,10 +47,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://commonplace.net/2009/05/who-needs-marc/" rel="noopener noreferrer nofollow" target="_blank">Who Needs MARC? (Lukas Koster)</a>
-</p>
-</li>
-<li>
 <p><a href="http://escholarship.org/uc/item/91b1830k" rel="noopener noreferrer nofollow" target="_blank">Can Bibliographic Data be Put Directly Onto the Semantic Web? (Martha Yee)</a>
 </p>
 </li>
@@ -106,8 +102,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="http://www.loc.gov/bibliographic-future/rda/" rel="noopener noreferrer nofollow" target="_blank">Testing Resource Description and Access (RDA)</a>
-</p>
-<p><a href="http://eprints.rclis.org/18328/1/BCLAPresentation_20100427.pdf" rel="noopener noreferrer nofollow" target="_blank">Changes from AACR2 to RDA: A Comparison of Examples (Adam Schiff)</a>
 </p>
 </li>
 <li>
@@ -204,10 +198,6 @@ variant: tiptap
 <p><a href="http://dynamicorange.com/2009/11/11/bringing-frbr-down-to-earth/" rel="noopener noreferrer nofollow" target="_blank">Bringing FRBR Down to Earth (Rob Styles)</a>
 </p>
 <p><a href="http://celeripedean.wordpress.com/2009/03/12/code4lib-and-frbr/" rel="noopener noreferrer nofollow" target="_blank">More FRBR and FRAD Links (Celeripedean)</a>
-</p>
-</li>
-<li>
-<p><a href="https://cidoc-crm.org/frbroo/ModelVersion/frbroo-v.-3.0" rel="noopener nofollow" target="_blank">FRBRoo v.3.0</a>
 </p>
 </li>
 <li>
