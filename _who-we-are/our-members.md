@@ -3,7 +3,7 @@ title: Our Members
 permalink: /who-we-are/our-members/
 variant: markdown
 ---
-There are currently 31 library members of SILAS. They are from higher learning institutions, ministries and government agencies, schools and junior colleges.
+There are currently 30 library members of SILAS. They are from higher learning institutions, ministries and government agencies, schools and junior colleges.
 
 
 Anglo-Chinese Independent School,
@@ -22,12 +22,12 @@ AWWA,
 11 Lorong Napiri, ACCESS Building,
 Ms Susan Tan,
 susan_tan@awwa.org.sg, 
-65115280
+6511 5280
 
 Defence Science & Technology Agency, 1 Depot Road, Defence Tech Tower A, #03-01J, Singapore 109676,
-Ms Stephanie Seow,
+Mr Loke Yim Peng (Senior Manager),
 irc@dsta.gov.sg, 
-6373 4989
+6819 5130
 
 Dulwich College Singapore,
 71 Bukit Batok West Avenue 8,
@@ -56,15 +56,9 @@ khalid@iti.edu.sg,
 
 Juvenile Homes,
 Ministry of Social and Family Development, 
-Ms Magesvari Ashok Kumar, 
-Magesvari_Ashok_Kumar@msf.gov.sg,
-6488 1056
-
-KK Women’s & Children’s Hospital,
-100 Bukit Timah Road, Singapore 229899,
-Ms Peggy Fong,
-library@kkh.com.sg,
-6394 1598
+Ms Amarjit Kaur (Education Support Senior Manager),
+Amarjit_KAUR@msf.gov.sg,
+6792 8741
 
 Nanyang Girls High School, 
 2 Linden Drive, Singapore 288683, 
@@ -99,9 +93,9 @@ szan.tan@nationalgallery.sg,
 
 National Institute of Education (NIE Library),
 1 Nanyang Walk, Singapore 637616, 
-Ms Wah-Yeoh Seok Kwan,
-seokkwan.yeoh@nie.edu.sg, 
-6790 3633
+Mr Jacky Wong Kae Perng (Chief Librarian),
+kaeperng.wong@nie.edu.sg, 
+6790 3635
 
 National Library Board
 
