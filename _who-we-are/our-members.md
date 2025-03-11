@@ -87,8 +87,8 @@ Irene_LL_LIM@nlb.gov.sg,
 
 National Gallery Singapore, 
 1 St. Andrew's Road, Singapore 178957, 
-Ms Szan Tan (Head, Library & Archives)
-szan.tan@nationalgallery.sg,
+Mr Bruce Quek (Library Manager)
+bruce.quek@nationalgallery.sg
 6271 7000 (HQ)
 
 National Institute of Education (NIE Library),
@@ -136,12 +136,6 @@ Raffles Girls Seondary School,
 Ms Masturah Abdul Aziz (Library Manager), masturah.aziz@rafflesgirlssch.edu.sg,
 6970 6495
 
-Raffles Institution,
-One Raffles Institution Lane, Singapore 575954,
-Mr Frank Seah Eng Kiat (Library Manager),
-engkiat.seah@ri.edu.sg, 
-6419 9896
-
 Republic Polytechnic (Library), 
 9 Woodlands Avenue 9, Singapore 738984, 
 Ms Tan Ai Li (Library Manager),
@@ -157,9 +151,9 @@ Kimmy.Xing@Singaporetech.edu.sg,
 Singapore Management University, 
 Li Ka Shing Library, 70 Stamford Road, 
 Singapore 178901, 
-Ms Veronica Wang,
+Ms Nur Azlina Abdullah (Senior Library Specialist),
 library@smu.edu.sg,
-6828 0355
+6828 0493
 
 Singapore Polytechnic (Library), 
 500 Dover Road, Singapore 139651,
@@ -169,7 +163,7 @@ library@sp.edu.sg,
 
 Singapore University of Social Sciences, 
 463 Clementi Road, Singapore 599494, 
-Ms Manimekalai Thirumala
+Ms Manimekalai Thirumala (Director),
 manimekalai@suss.edu.sg, 
 62480450
  
@@ -181,6 +175,6 @@ marianah_abdullah@sutd.edu.sg,
 
 Temasek Polytechnic (Library),
 21 Tampines Avenue 1, Singapore 529757, 
-Ms Ong Peik Keng,
-peikkeng@tp.edu.sg, 
-6788 2000
+Ms Terri Ho (Assistant Director),
+ho_mui_huay@tp.edu.sg, 
+6780 5215
