@@ -3,7 +3,7 @@ title: Our Members
 permalink: /who-we-are/our-members/
 variant: markdown
 ---
-There are currently 31 library members of SILAS. They are from higher learning institutions, ministries and government agencies, schools and junior colleges.
+There are currently 30 library members of SILAS. They are from higher learning institutions, ministries and government agencies, schools and junior colleges.
 
 
 Anglo-Chinese Independent School,
@@ -22,12 +22,12 @@ AWWA,
 11 Lorong Napiri, ACCESS Building,
 Ms Susan Tan,
 susan_tan@awwa.org.sg, 
-65115280
+6511 5280
 
 Defence Science & Technology Agency, 1 Depot Road, Defence Tech Tower A, #03-01J, Singapore 109676,
-Ms Stephanie Seow,
+Mr Loke Yim Peng (Senior Manager),
 irc@dsta.gov.sg, 
-6373 4989
+6819 5130
 
 Dulwich College Singapore,
 71 Bukit Batok West Avenue 8,
@@ -56,15 +56,9 @@ khalid@iti.edu.sg,
 
 Juvenile Homes,
 Ministry of Social and Family Development, 
-Ms Magesvari Ashok Kumar, 
-Magesvari_Ashok_Kumar@msf.gov.sg,
-6488 1056
-
-KK Women’s & Children’s Hospital,
-100 Bukit Timah Road, Singapore 229899,
-Ms Peggy Fong,
-library@kkh.com.sg,
-6394 1598
+Ms Amarjit Kaur (Education Support Senior Manager),
+Amarjit_KAUR@msf.gov.sg,
+6792 8741
 
 Nanyang Girls High School, 
 2 Linden Drive, Singapore 288683, 
@@ -93,15 +87,15 @@ Irene_LL_LIM@nlb.gov.sg,
 
 National Gallery Singapore, 
 1 St. Andrew's Road, Singapore 178957, 
-Ms Szan Tan (Head, Library & Archives)
-szan.tan@nationalgallery.sg,
+Mr Bruce Quek (Library Manager)
+bruce.quek@nationalgallery.sg
 6271 7000 (HQ)
 
 National Institute of Education (NIE Library),
 1 Nanyang Walk, Singapore 637616, 
-Ms Wah-Yeoh Seok Kwan,
-seokkwan.yeoh@nie.edu.sg, 
-6790 3633
+Mr Jacky Wong Kae Perng (Chief Librarian),
+kaeperng.wong@nie.edu.sg, 
+6790 3635
 
 National Library Board
 
@@ -142,12 +136,6 @@ Raffles Girls Seondary School,
 Ms Masturah Abdul Aziz (Library Manager), masturah.aziz@rafflesgirlssch.edu.sg,
 6970 6495
 
-Raffles Institution,
-One Raffles Institution Lane, Singapore 575954,
-Mr Frank Seah Eng Kiat (Library Manager),
-engkiat.seah@ri.edu.sg, 
-6419 9896
-
 Republic Polytechnic (Library), 
 9 Woodlands Avenue 9, Singapore 738984, 
 Ms Tan Ai Li (Library Manager),
@@ -163,9 +151,9 @@ Kimmy.Xing@Singaporetech.edu.sg,
 Singapore Management University, 
 Li Ka Shing Library, 70 Stamford Road, 
 Singapore 178901, 
-Ms Veronica Wang,
+Ms Nur Azlina Abdullah (Senior Library Specialist),
 library@smu.edu.sg,
-6828 0355
+6828 0493
 
 Singapore Polytechnic (Library), 
 500 Dover Road, Singapore 139651,
@@ -175,7 +163,7 @@ library@sp.edu.sg,
 
 Singapore University of Social Sciences, 
 463 Clementi Road, Singapore 599494, 
-Ms Manimekalai Thirumala
+Ms Manimekalai Thirumala (Director),
 manimekalai@suss.edu.sg, 
 62480450
  
@@ -187,6 +175,6 @@ marianah_abdullah@sutd.edu.sg,
 
 Temasek Polytechnic (Library),
 21 Tampines Avenue 1, Singapore 529757, 
-Ms Ong Peik Keng,
-peikkeng@tp.edu.sg, 
-6788 2000
+Ms Terri Ho (Assistant Director),
+ho_mui_huay@tp.edu.sg, 
+6780 5215
