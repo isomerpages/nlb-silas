@@ -60,6 +60,14 @@ Ms Amarjit Kaur (Education Support Senior Manager),
 Amarjit_KAUR@msf.gov.sg,
 6792 8741
 
+Management Development Institute of Singapore,
+MDIS-Unicampus Resource Hub Library,
+Block C, Level 4, 501 Stirling Road,
+Singapore 148951,
+Mr Benjamin Wong,
+benjamin_wongck@mdis.edu.sg,
+6796 7827
+
 Nanyang Girls High School, 
 2 Linden Drive, Singapore 288683, 
 Mr Wen Di,
