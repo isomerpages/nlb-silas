@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: National Library Board
+title: NLB
 description: test test
 image: /images/isomer-logo.svg
 permalink: /
