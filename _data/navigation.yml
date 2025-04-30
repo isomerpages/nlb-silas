@@ -1,0 +1,10 @@
+logo: /images/New_NLB_SILAS_logos_16Apr2025.jpg
+links:
+  - title: Who We Are
+    collection: who-we-are
+  - title: Document Library
+    collection: document-library
+  - title: Virtual Union Catalogue
+    url: https://unioncatalogue.gov.sg/
+  - title: Contact Us
+    url: /contact-us/

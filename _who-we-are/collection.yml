@@ -1,0 +1,7 @@
+collections:
+  who-we-are:
+    output: true
+    order:
+      - about-silas.md
+      - history-of-silas.md
+      - our-members.md
