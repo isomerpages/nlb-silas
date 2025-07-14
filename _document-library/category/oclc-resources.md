@@ -41,7 +41,7 @@ on special topics</p>
 </p>
 </li>
 <li>
-<p><a href="https://help.oclc.org/Librarian_Toolbox/Software_downloads/Cataloging_software_downloads" rel="noopener noreferrer nofollow" target="_blank">OCLC Software Download</a>:
+<p><a href="https://help.oclc.org/Librarian_Toolbox/Software_downloads/Download_cataloging_software" rel="noopener noreferrer nofollow" target="_blank">OCLC Software Download</a>:
 Connexion client, Macros and scripts.</p>
 </li>
 <li>
